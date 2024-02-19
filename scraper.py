@@ -1,18 +1,43 @@
 import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin, urldefrag, urlunparse
 
 from bs4 import BeautifulSoup
-from lxml import html
+import tokenize
+import time
+
+from collections import defaultdict
+
+MAX_URL_CONTENT_LENGTH = 5 * 1024 * 1024  # one megabyte
+
+
+
+visited_urls = []
+words_dict=defaultdict(int)
+longest_url=('',0)
+subdomains=defaultdict(int)
+
+visit_count = dict()  # Map paths to times visited
+
+STOP_WORDS = {'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 'any', 'are', "aren't",
+              'as', 'at', 'be', 'because', 'been', 'before', 'being', 'below', 'between', 'both', 'but', 'by',
+              "can't", 'cannot', 'could', "couldn't", 'did', "didn't", 'do', 'does', "doesn't", 'doing', "don't",
+              'down', 'during', 'each', 'few', 'for', 'from', 'further', 'had', "hadn't", 'has', "hasn't", 'have',
+              "haven't", 'having', 'he', "he'd", "he'll", "he's", 'her', 'here', "here's", 'hers', 'herself', 'him',
+              'himself', 'his', 'how', "how's", 'i', "i'd", "i'll", "i'm", "i've", 'if', 'in', 'into', 'is', "isn't",
+              'it', "it's", 'its', 'itself', "let's", 'me', 'more', 'most', "mustn't", 'my', 'myself', 'no', 'nor',
+              'not', 'of', 'off', 'on', 'once', 'only', 'or', 'other', 'ought', 'our', 'ours', 'ourselves', 'out',
+              'over', 'own', 'same', "shan't", 'she', "she'd", "she'll", "she's", 'should', "shouldn't", 'so', 'some',
+              'such', 'than', 'that', "that's", 'the', 'their', 'theirs', 'them', 'themselves', 'then', 'there',
+              "there's", 'these', 'they', "they'd", "they'll", "they're", "they've", 'this', 'those', 'through', 'to',
+              'too', 'under', 'until', 'up', 'very', 'was', "wasn't", 'we', "we'd", "we'll", "we're", "we've", 'were',
+              "weren't", 'what', "what's", 'when', "when's", 'where', "where's", 'which', 'while', 'who', "who's",
+              'whom', 'why', "why's", 'with', "won't", 'would', "wouldn't", 'you', "you'd", "you'll", "you're",
+              "you've", 'your', 'yours', 'yourself', 'yourselves'}
 
 
 def scraper(url, resp):
     links = extract_next_links(url, resp)
-
-    # Save unique url
-    count_unique_urls(links, 'unique_pages_count.txt')
-    # Save the longest page to a different output file
-    save_longest_page(url, resp, 'longest_page_info.txt')
-
+    output_to_txt()
     return [link for link in links if is_valid(link)]
 
 
@@ -29,14 +54,31 @@ def extract_next_links(url, resp):
 
     links = []
 
-    if resp.status == 200 and resp.raw_response.content:
+    if url in visited_urls:
+        return links
 
-        soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
+    try:
+        if resp.status == 200 and len(resp.raw_response.content) < MAX_URL_CONTENT_LENGTH:
 
-        for hyperlink in soup.find_all('a', href=True):
+            visited_urls.append(url)
 
-            links.append(hyperlink['href'])  # href contains the URL that the hyperlink points to
+            parse_url = urlparse(url)
 
+            extract_content(url, resp)
+
+            soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
+
+            for new_url in soup.find_all('a'):
+
+                absolute_link = urldefrag(urljoin(parse_url.scheme + "://" + parse_url.netloc, new_url['href']))[0]
+                if '?' in absolute_link:
+                    absolute_link = absolute_link.split("?")[0]
+
+                if not max_visits(absolute_link):
+                    links.append(absolute_link)
+
+    except AttributeError:
+        print(f'Status Code: {resp.status}\nError: {resp.error}')
     return list()
 
 
@@ -45,103 +87,120 @@ def is_valid(url):
     # If you decide to crawl it, return True; otherwise return False.
     # There are already some conditions that return False.
     try:
-        # de-fragment
-        url_without_fragment = url.split("#")[0]
-
-        parsed = urlparse(url_without_fragment)
-
+        parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
             return False
 
-        # Only crawl these domains
-        allowed_domains = [
-            "ics.uci.edu",
-            "cs.uci.edu",
-            "informatics.uci.edu",
-            "stat.uci.edu"
-        ]
-
-        # Check if the domain of the URL is in the allowed domains
-        if not any(parsed.netloc.endswith(domain) for domain in allowed_domains):
+        if not re.match(
+                r".*\.(ics\.uci\.edu"
+                + r"|cs\.uci\.edu"
+                + r"|informatics\.uci\.edu"
+                + r"|stat\.uci\.edu)", parsed.netloc.lower()):
             return False
 
-        # Allow these file types
-        if not re.match(
-                r"^\/[^\/]*(\/.*)?$",
-                parsed.path
-        ) or re.match(   # Exclude these file types
-            r".*\.(css|js|bmp|gif|jpe?g|ico"
+        # Avoid pdfs
+        if "pdf" in parsed.path:
+            return False
+
+        # zip attachments
+        if "zip-attachment" in parsed.path.lower():
+            return False
+
+        # files
+        if "/files" in url or "/file" in url:
+            return False
+
+        # user uploads
+        if "wp-content/uploads" in parsed.path.lower():
+            return False
+
+        return not re.match(
+            r".*\.(css|js|bmp|gif|jpe?g|ico|php"
             + r"|png|tiff?|mid|mp2|mp3|mp4"
             + r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
-            + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
-            + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
+            + r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names|ppsx|pps"
+            + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso|ova"
             + r"|epub|dll|cnf|tgz|sha1"
-            + r"|thmx|mso|arff|rtf|jar|csv"
-            + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower()):
-            return False
-
-        return True
+            + r"|thmx|mso|arff|rtf|jar|csv|xml"
+            + r"|r|py|java|c|cc|cpp|h|svn|svn-base|bw|bigwig"
+            + r"|txt|odc|apk|img|war"
+            + r"|bam|bai|out|tab|edgecount|junction|ipynb|bib|lif"
+            + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower())
 
     except TypeError:
         print ("TypeError for ", parsed)
         raise
 
 
-'''  if parsed.netloc.endswith(("ics.uci.edu", "cs.uci.edu", "informatics.uci.edu", "stat.uci.edu")):
-                return re.match(r"^\/.*$", parsed.path)
-            return False
-    '''
+def extract_content(url, resp):
+
+    soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
+    tokens_list = tokenize_content(soup.text)
+    # Only high text content pages
+    if len(tokens_list) > 100:
+        filtered_tokens=[token for token in tokens_list if token not in STOP_WORDS]
+
+        global longest_url
+        if len(filtered_tokens)>longest_url[1]:
+            longest_url=(url, len(filtered_tokens))
+        for token in filtered_tokens:
+            words_dict[token]+=1
+
+        parse_url = urlparse(url)
+        if "ics.uci.edu" in parse_url.netloc or "cs.uci.edu" in parse_url.netloc or "informatics.uci.edu" in parse_url.netloc or "stat.uci.edu" in parse_url.netloc:
+            if "https://" + parse_url.netloc in subdomains.keys():
+                subdomains["https://" + parse_url.netloc] += 1
+            elif "http://" + parse_url.netloc in subdomains.keys():
+                subdomains["http://" + parse_url.netloc] += 1
+            else:
+                subdomains[parse_url.scheme + "://" + parse_url.netloc] += 1
 
 
-def count_unique_urls(urls, output_file):
-    unique_urls = set()  # Set to store unique URLs
-
-    # Iterate through the URLs and add them to the set
-    for url in urls:
-        # Remove fragment from the URL
-        url_no_fragment = urlparse(url)._replace(fragment='').geturl()
-        # Add the URL without fragment to the set of unique URLs
-        unique_urls.add(url_no_fragment)
-
-    # Count the number of unique URLs
-    unique_count = len(unique_urls)
-
-    # Append the count to the specified file
-    with open(output_file, 'a') as file:
-        file.write(str(unique_count) + '\n')
-
-
-def save_longest_page(url, resp, output_file):
-    # Check if the response is successful (status code 200)
-    if resp.status == 200:
-        # Parse the HTML content
-        soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
-        # Find all text elements in the HTML
-        text_elements = soup.find_all(text=True)
-        # Concatenate the text elements to form the entire page content
-        page_content = ' '.join(element.strip() for element in text_elements if element.strip())
-        # Split the page content into words
-        words = page_content.split()
-        # Calculate the number of words in the page
-        word_count = len(words)
-
-        # Check if the file exists
-        try:
-            with open(output_file, 'r') as file:
-                # Read the current longest page length
-                current_longest, current_url = map(str.strip, file.readlines())
-        except FileNotFoundError:
-            # If the file doesn't exist, set the current longest to 0
-            current_longest, current_url = '0', ''
-
-        # If the current page is longer than the previous longest page, save it to the file
-        if word_count > current_longest:
-            # Write the new longest page length and URL to the file
-            with open(output_file, 'w') as file:
-                file.write(f"{word_count}\n{url}")
+def tokenize_content(text_content):
+    tokens = []
+    for line in text_content:
+        token_line = re.split('[^0-9A-Za-z]', line.lower())
+        tokens.extend(token_line)
+    return list(filter(None, tokens))
 
 
 
+def output_to_txt():
+    with open('output.txt', 'w', encoding='utf-8') as file:
+        file.write("QUESTION #1" + "\n\n")
+        file.write("Visited URLs:\n")
+        for visited_url in visited_urls:
+            file.write(visited_url + '\n')
 
+        file.write("QUESTION #2" + "\n\n")
+        file.write("\nWord Frequencies:\n")
+        for word, frequency in words_dict.items():
+            file.write(f"{word}: {frequency}\n")
+
+        file.write("QUESTION #3" + "\n\n")
+        file.write("\nLongest URL:\n")
+        file.write(f"URL: {longest_url[0]}\n")
+        file.write(f"Word Count: {longest_url[1]}\n")
+
+        file.write("QUESTION #4" + "\n\n")
+        file.write("\nSubdomains:\n")
+        for subdomain, count in subdomains.items():
+            file.write(f"{subdomain}: {count}\n")
+
+
+
+def max_visits(link):
+
+    global visit_count
+    new_link = urldefrag(link)[0]
+
+    if new_link not in visit_count:
+        visit_count[new_link] = 1
+    elif visit_count[new_link] < 15:
+        visit_count[new_link] += 1
+    else:
+        return True
+
+    return False
 
 
