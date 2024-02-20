@@ -165,9 +165,7 @@ def max_visits(url):
 def output_to_txt():
     with open('output.txt', 'w', encoding='utf-8') as file:
         file.write("QUESTION #1" + "\n")
-        file.write(f"Unique Pages: {len(unique_pages)}\n")
-        for visited_url in unique_pages:
-            file.write(visited_url + '\n')
+        file.write(f"# of Unique Pages: {len(unique_pages)}\n")
 
         file.write("\nQUESTION #2" + "\n")
         file.write("\n50 Most Common Words:\n")
