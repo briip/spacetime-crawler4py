@@ -1,5 +1,5 @@
 QUESTION #1
-Unique Pages: 22
+Unique Pages: 79
 https://www.stat.uci.edu
 https://www.stat.uci.edu/professors-nan-and-gillen-receive-1-8m-grant-to-study-statistical-methods-for-alzheimers-research
 https://www.stat.uci.edu/uci-in-top-10-on-fortunes-list-of-best-masters-in-data-science-programs
@@ -22,66 +22,123 @@ https://www.stat.uci.edu/dr-joni-ricks-oddie-applies-data-driven-lens-in-run-for
 https://www.stat.uci.edu/applications-open-for-new-uci-summer-biostatistics-institute-for-undergraduate-students
 https://www.stat.uci.edu/ics-graduate-programs-in-statistics-and-computer-science-among-top-20-for-public-universities
 https://www.stat.uci.edu/mds-student-ty-shao-aims-to-make-an-impact-in-healthcare
+https://www.stat.uci.edu/culture-of-collaboration-leads-to-cutting-edge-work-in-ai
+https://www.stat.uci.edu/uci-news-ucis-graduate-programs-shine-in-u-s-news-world-report-rankings
+https://www.stat.uci.edu/uci-deep-learning-researchers-advance-theory-and-practice-of-data-compression
+https://www.stat.uci.edu/uci-news-uci-researchers-receive-state-funding-to-study-pandemic-forecasting
+https://www.stat.uci.edu/university-of-california-health-and-cdph-covid-modeling-consortium-awards-grant-funding-to-further-covid-19-data-research
+https://www.stat.uci.edu/womens-history-month-resources-for-empowering-women-in-tech
+https://www.stat.uci.edu/statistics-ph-d-student-isaac-goldstein-receives-la-verne-noyes-fellowship
+https://www.stat.uci.edu/uci-announces-launch-of-institute-for-precision-health
+https://www.stat.uci.edu/black-history-month-sharing-resources-to-expand-diversity-in-tech
+https://www.stat.uci.edu/4-ics-professors-among-7-uci-researchers-named-aaas-fellows
+https://www.stat.uci.edu/xu-receives-slds-student-paper-award
+https://www.stat.uci.edu/tech-trends-for-2022
+https://www.stat.uci.edu/graduate-student-spotlight-mds-ambassador-adelynn-paik-shares-her-academic-professional-goals
+https://www.stat.uci.edu/disney-research-supports-stephan-mandts-work-on-generative-modeling-with-50000-gift
+https://www.stat.uci.edu/beyond-the-t-test-uci-professors-publish-new-statistical-guidance-for-neuroscience-research
+https://www.stat.uci.edu/statistics-ph-d-student-tianyu-pan-wins-two-competitive-awards
+https://www.stat.uci.edu/elizabeth-lee-wins-data-science-for-social-good-award
+https://www.stat.uci.edu/stephan-mandt-and-collaborators-receive-3-5-million-to-study-machine-learning-for-climate-science
+https://www.stat.uci.edu/harnessing-the-data-revolution-ics-researchers-and-collaborators-receive-1-5m-data-science-grant
+https://www.stat.uci.edu/lifetime-achievement-and-dinsdale-awards-double-the-accolades-for-professor-emerita-jessica-utts
+https://www.stat.uci.edu/uci-news-uci-led-study-finds-disparities-in-o-c-rates-of-covid-19-infection-mortality-vladimir-minin-mentioned
+https://www.stat.uci.edu/from-theory-to-practice-ucis-machine-learning-hackathon-delivers
+https://www.stat.uci.edu/choc-teams-up-with-uci-to-offer-pediatric-capstone-project-in-data-science
+https://www.stat.uci.edu/mine-dogucu-receives-young-investigator-award
+https://www.stat.uci.edu/qu-appointed-ims-program-secretary
+https://www.stat.uci.edu/the-resilience-of-the-class-of-2021
+https://www.stat.uci.edu/capstone-program-showcases-growing-talent-of-ics-students
+https://www.stat.uci.edu/a-bold-decision-to-study-abroad-in-high-school-led-sirui-hu-to-uci-and-beyond-data-science-major
+https://www.stat.uci.edu/teach-access-recognizes-mine-dogucu-as-curriculum-development-awardee
+https://www.stat.uci.edu/uci-news-efforts-to-treat-covid-19-patients-chronicled-in-uc-health-medications-data-bin-nan-mentioned
+https://www.stat.uci.edu/exploring-and-strengthening-sports-stats-at-uci
+https://www.stat.uci.edu/uci-news-hal-s-stern-is-named-uci-provost-and-executive-vice-chancellor
+https://www.stat.uci.edu/three-ics-students-receive-2021-nsf-graduate-research-fellowships
+https://www.stat.uci.edu/amstat-news-celebrating-women-in-statistics-2021-annie-qu-mentioned
+https://www.stat.uci.edu/a-look-at-health-and-technology-trends-for-2021-and-beyond
+https://www.stat.uci.edu/uci-launches-new-professional-program-master-of-data-science
+https://www.stat.uci.edu/a-campus-gem-ucis-statistical-consulting-services
+https://www.stat.uci.edu/orange-county-business-journal-uci-forecasts-covid-19-trends-in-oc
+https://www.stat.uci.edu/kuci-office-hours-podcast-keeping-up-with-coronavirus-statistics-vladimir-minin-interviewed
+https://www.stat.uci.edu/uci-statisticians-release-new-online-orange-county-covid-19-information-resource
+https://www.stat.uci.edu/ics-statistics-researchers-release-new-online-oc-covid-situation-report
+https://www.stat.uci.edu/orange-county-business-journal-uci-releases-covid-19-website
+https://www.stat.uci.edu/yahoo-news-data-glitch-confounds-coronavirus-totals-in-orange-county-state-vladimir-minin-quoted
+https://www.stat.uci.edu/uci-news-uci-researchers-launch-first-of-its-kind-coronavirus-statistics-portal
+https://www.stat.uci.edu/professor-annie-qu-works-to-enhance-the-detection-of-invasive-cancers-using-medical-imaging-data
+https://www.stat.uci.edu/hal-stern-selected-as-a-fellow-of-the-international-society-of-bayesian-analysis
+https://www.stat.uci.edu/uci-news-national-institute-awards-20-million-in-renewed-funding-to-forensic-science-center
+https://www.stat.uci.edu/michelle-nuno-selected-to-participate-in-the-70th-lindau-nobel-laureate-meeting
+https://www.stat.uci.edu/uci-mind-alzheimers-disease-clinical-trials-and-covid-19-with-dr-daniel-gillen
+https://www.stat.uci.edu/uci-brain-researcher-spotlight-dr-babak-shahbaba
+https://www.stat.uci.edu/nsf-announces-2020-graduate-research-fellows
+https://www.stat.uci.edu/amstat-news-celebrating-rising-undergraduate-women-in-statistics-and-data-science
+https://www.stat.uci.edu/statistics-ph-d-student-mary-ryan-receives-public-impact-fellowship
+https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-environmental-sciences-of-the-isba
+https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond
+https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed
+https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted
 
 QUESTION #2
 
 50 Most Common Words:
-1: ('statistics', 234)
-2: ('data', 194)
-3: ('science', 194)
-4: ('research', 146)
-5: ('students', 112)
-6: ('statistical', 110)
-7: ('uci', 108)
-8: ('computer', 105)
-9: ('faculty', 97)
-10: ('program', 93)
-11: ('news', 91)
-12: ('school', 90)
-13: ('ics', 78)
-14: ('department', 71)
-15: ('graduate', 70)
-16: ('information', 69)
-17: ('new', 69)
-18: ('september', 66)
-19: ('course', 65)
-20: ('donald', 61)
-21: ('bren', 61)
-22: ('professor', 61)
-23: ('will', 58)
-24: ('says', 58)
-25: ('opportunities', 53)
-26: ('also', 53)
-27: ('sciences', 50)
-28: ('master', 48)
-29: ('undergraduate', 48)
-30: ('current', 47)
-31: ('gillen', 47)
-32: ('directory', 45)
-33: ('degrees', 44)
-34: ('listings', 44)
-35: ('seminars', 44)
-36: ('methods', 44)
-37: ('student', 42)
-38: ('one', 42)
-39: ('uci’s', 41)
-40: ('institute', 41)
-41: ('world', 40)
-42: ('time', 40)
-43: ('impact', 40)
-44: ('summer', 40)
-45: ('grant', 40)
-46: ('work', 38)
-47: ('can', 37)
-48: ('real', 37)
-49: ('capstone', 37)
-50: ('professors', 35)
+1: ('statistics', 856)
+2: ('data', 778)
+3: ('science', 646)
+4: ('research', 500)
+5: ('uci', 467)
+6: ('news', 382)
+7: ('computer', 339)
+8: ('students', 303)
+9: ('faculty', 301)
+10: ('statistical', 297)
+11: ('new', 292)
+12: ('school', 287)
+13: ('information', 273)
+14: ('program', 273)
+15: ('graduate', 251)
+16: ('september', 245)
+17: ('department', 238)
+18: ('professor', 238)
+19: ('bren', 214)
+20: ('donald', 212)
+21: ('course', 201)
+22: ('sciences', 181)
+23: ('current', 181)
+24: ('will', 181)
+25: ('health', 178)
+26: ('opportunities', 175)
+27: ('master', 173)
+28: ('student', 170)
+29: ('ics', 168)
+30: ('degrees', 163)
+31: ('seminars', 161)
+32: ('says', 160)
+33: ('directory', 159)
+34: ('listings', 158)
+35: ('time', 155)
+36: ('can', 153)
+37: ('work', 151)
+38: ('also', 148)
+39: ('world', 143)
+40: ('uci’s', 142)
+41: ('methods', 138)
+42: ('learning', 137)
+43: ('study', 133)
+44: ('ph.d', 131)
+45: ('undergraduate', 129)
+46: ('impact', 129)
+47: ('institute', 129)
+48: ('real', 123)
+49: ('center', 119)
+50: ('gillen', 116)
 
 QUESTION #3
 
 Longest URL:
-URL: https://www.stat.uci.edu/dont-think-you-can-learn-bayesian-statistics-think-again-with-bayes-rules
-Word Count: 1075
+URL: https://www.stat.uci.edu/a-look-at-health-and-technology-trends-for-2021-and-beyond
+Word Count: 2312
 
 QUESTION #4
 

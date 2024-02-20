@@ -97,6 +97,10 @@ def is_valid(url):
 
         if re.match(pattern, url.lower()):  # Checks if URL matches the requirements
 
+            # Avoid mpg http://www.ics.uci.edu/~jacobson/ics10A/Lab4/Supernova.mpg was taking up the longest url
+            if "mpg" in parsed.path.lower():
+                return False
+
             # Avoid pdfs and zip attachments
             if "zip-attachment" in parsed.path.lower():
                 return False
