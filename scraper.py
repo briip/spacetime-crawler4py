@@ -41,18 +41,28 @@ def scraper(url, resp):
 
 
 def extract_next_links(url, resp):
+    # Implementation required.
+    # url: the URL that was used to get the page
+    # resp.url: the actual url of the page
+    # resp.status: the status code returned by the server. 200 is OK, you got the page. Other numbers mean that there was some kind of problem.
+    # resp.error: when status is not 200, you can check the error here, if needed.
+    # resp.raw_response: this is where the page actually is. More specifically, the raw_response has two parts:
+    #         resp.raw_response.url: the url, again
+    #         resp.raw_response.content: the content of the page!
+    # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
+    
     links = []
 
     if url in unique_pages:
         return links
-
+    else:
+        unique_pages.append(url) # count found pages even if status != 200
     try:
         if resp.status == 200 and len(resp.raw_response.content) < MAX_URL_CONTENT_LENGTH:
-            unique_pages.append(url)
+            
             parse_url = urlparse(url)
 
             soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
-
 
             try:
                 tokens_list = tokenize_content(soup.text)
@@ -77,7 +87,8 @@ def extract_next_links(url, resp):
                 print(f'Error extracting content from {url}: {e}')
 
             for new_url in soup.find_all('a'):
-                # defragmented link
+
+                # defragmented url
                 absolute_url= urldefrag(urljoin(parse_url.scheme + "://" + parse_url.netloc, new_url['href']))[0]
                 if '?' in absolute_url:
                     absolute_url = absolute_url.split("?")[0]
@@ -144,11 +155,11 @@ def max_visits(url):
     new_link = urldefrag(url)[0] if urldefrag(url)[0] else url
     if new_link not in visit_count:
         visit_count[new_link] = 1
+        return False
     elif visit_count[new_link] < 10:
         visit_count[new_link] += 1
-    else:
-        return True
-    return False
+        return False
+    return True
 
 
 def output_to_txt():

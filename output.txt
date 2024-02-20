@@ -1,5 +1,5 @@
 QUESTION #1
-Unique Pages: 79
+Unique Pages: 1203
 https://www.stat.uci.edu
 https://www.stat.uci.edu/professors-nan-and-gillen-receive-1-8m-grant-to-study-statistical-methods-for-alzheimers-research
 https://www.stat.uci.edu/uci-in-top-10-on-fortunes-list-of-best-masters-in-data-science-programs
@@ -79,67 +79,1222 @@ https://www.stat.uci.edu/professor-berrocal-elected-chair-of-the-section-in-envi
 https://www.stat.uci.edu/staff-spotlight-rosemary-bustas-journey-from-chemistry-to-statistics-to-scotland-and-beyond
 https://www.stat.uci.edu/kpcc-vexed-by-college-statistics-courses-new-approaches-emphasize-practical-learning-jessica-utts-interviewed
 https://www.stat.uci.edu/laist-socal-professors-push-to-make-college-level-statistics-less-painful-jessica-utts-quoted
+https://www.stat.uci.edu/ics-welcomes-8-new-faculty-for-2019
+https://www.stat.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery
+https://www.stat.uci.edu/statistics-professors-shahbaba-and-minin-help-develop-framework-to-investigate-complex-biological-systems
+https://www.stat.uci.edu/hal-stern-appointed-vice-provost-for-academic-planning
+https://www.stat.uci.edu/professor-nan-awarded-nsf-grant-to-improve-statistical-inference
+https://www.stat.uci.edu/renewed-funding-lets-hal-stern-continue-research-of-early-life-adversity-brain-development-with-the-uci-conte-center
+https://www.stat.uci.edu/conference-honors-statistics-professor-emeritus-wesley-johnson
+https://www.stat.uci.edu/ics-students-win-best-web-app-at-hacksc
+https://www.stat.uci.edu/professor-guindani-named-fellow-of-the-american-statistical-association
+https://www.stat.uci.edu/center-for-statistical-consulting-a-one-stop-shop-for-data-analysis
+https://www.stat.uci.edu/statistics-ph-d-students-awarded-nsf-graduate-research-fellowships
+https://www.stat.uci.edu/new-data-science-scholarship-to-promote-social-good
+https://www.stat.uci.edu/professor-shens-collaborations-exemplify-the-significance-of-statistics
+https://www.stat.uci.edu/trio-of-ics-professors-preview-tech-trends-for-2019
+https://www.stat.uci.edu/statistics-ph-d-alumnus-andrew-holbrook-18-named-a-finalist-for-the-savage-award
+https://www.stat.uci.edu/multidepartmental-collaboration-on-detecting-code-clones-leads-to-distinguished-paper-award
+https://www.stat.uci.edu/senior-spotlight-james-purpura-goes-from-watching-moneyball-to-earning-data-science-degree
+https://www.stat.uci.edu/knowable-magazine-when-courtroom-science-goes-wrong-and-how-stats-can-fix-it-hal-stern-featured
+https://www.stat.uci.edu/olivia-bernstein-named-outstanding-ta-in-statistics
+https://www.stat.uci.edu/hina-arora-tong-zou-share-2018-newcomb-graduate-award-in-statistics
+https://www.stat.uci.edu/professor-guindani-named-incoming-editor-in-chief-of-bayesian-analysis
+https://www.stat.uci.edu/professor-gillen-receives-1-2m-grant-to-study-alzheimers-disease-clinical-trial-study-partners
+https://www.stat.uci.edu/data-science-student-raj-parekh-receives-distinguished-anteater-award
+https://www.stat.uci.edu/stern-co-directs-award-winning-csafe-team
+https://www.stat.uci.edu/ics-staff-faculty-honored-at-inaugural-faculty-staff-awards-celebration
+https://www.stat.uci.edu/maricela-cruz-receives-latino-excellence-award-for-ics
+https://www.stat.uci.edu/professor-nan-receives-1-2-million-grant-to-develop-new-statistical-methods
+https://www.stat.uci.edu/2018-carl-cotman-young-investigator-award-recipient-is-a-rising-star
+https://www.stat.uci.edu/ucis-graduate-programs-shine-in-u-s-news-world-report-rankings
+https://www.stat.uci.edu/the-center-for-statistical-consultings-new-director-envisions-a-one-stop-shop-for-data-analysis-needs
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-neural-data-analysis-grant
+https://www.stat.uci.edu/shahbaba-receives-1-7-million-grant-to-develop-novel-models-for-neural-data-analysis
+https://www.stat.uci.edu/minin-co-edits-special-section-on-infectious-diseases-in-statistical-science
+https://www.stat.uci.edu/lakeland-times-autism-numbers-spike-the-latest-call-to-action-stern-quoted
+https://www.stat.uci.edu/utts-discusses-statistics-for-good-governance-at-international-conference-in-sri-lanka
+https://www.stat.uci.edu/2018-ics-projects-and-predictions
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-vladimir-minin-is-pleased-to-join-growing-community
+https://www.stat.uci.edu/uci-well-represented-at-women-in-statistics-data-science-conference
+https://www.stat.uci.edu/zhu-wins-2017-newcomb-graduate-award-in-statistics
+https://www.stat.uci.edu/alexandra-peterson-named-outstanding-ta-in-statistics
+https://www.stat.uci.edu/new-faculty-spotlight-statistics-professor-bin-nan-welcomes-collaboration
+https://www.stat.uci.edu/uci-news-uci-neurobiologists-aim-to-identify-biomarkers-for-alzheimers-disease-dan-gillen-mentioned
+https://www.stat.uci.edu/statistics-department-welcomes-two-new-faculty-for-2017
+https://www.stat.uci.edu/ucis-data-science-program-ranked-18th-in-nation-by-bcss
+http://futurehealth.ics.uci.edu/health
+http://futurehealth.ics.uci.edu/contact
+http://futurehealth.ics.uci.edu/work-with-us
+http://futurehealth.ics.uci.edu/about-ifh
+http://futurehealth.ics.uci.edu/health-food-nutrition-and-data
+http://futurehealth.ics.uci.edu/videos
+http://futurehealth.ics.uci.edu/videos/keynote-session-i-icis21-jk-lakshmipat-university-jaipur
+http://futurehealth.ics.uci.edu/videos/good-food-recommendation-by-ramesh-jain
+http://futurehealth.ics.uci.edu/videos/a-panel-on-knowing-what-is-ok-recruiting-participants-for-clinical-research-at-uci
+http://futurehealth.ics.uci.edu/videos/personalized-user-modelling-for-context-aware-lifestyle-recommendations-to-improve-sleep
+http://futurehealth.ics.uci.edu/videos/a-panel-onashoka-lecture-series-on-interdisciplinary-research
+http://futurehealth.ics.uci.edu/videos/zotcare
+http://futurehealth.ics.uci.edu/videos/oleg-zaslavsky
+http://futurehealth.ics.uci.edu/videos/a-panel-on-recruiting-participants-for-clinical-research-at-uci-part-2-recruiting-through-the-community
+http://futurehealth.ics.uci.edu/videos/how-to-access-ucis-de-identified-electronic-health-records-data-for-research
+http://futurehealth.ics.uci.edu/videos/how-to-access-and-use-the-uc-covid-research-data-set-uc-cords
+http://futurehealth.ics.uci.edu/videos/how-to-access-and-use-the-nih-all-of-us-research-data
+http://futurehealth.ics.uci.edu/videos/the-national-covid-cohort-collaborative-n3c
+http://futurehealth.ics.uci.edu/videos/how-to-request-research-data-from-uci-health
+http://futurehealth.ics.uci.edu/videos/privacy-aware-multimedia-analytics
+http://futurehealth.ics.uci.edu/videos/health-food-nutrition-and-data
+http://futurehealth.ics.uci.edu/videos/introduction-to-uci-imaging-services-and-dicom-data
+http://futurehealth.ics.uci.edu/videos/precisely-practicing-medicine-from-700-trillion-points-of-data
+http://futurehealth.ics.uci.edu/videos/how-to-do-collaborative-research-between-nursing-and-computer-science
+http://futurehealth.ics.uci.edu/videos/integrating-quantitative-qualitative-methods-to-enhance-clinical-research
+http://futurehealth.ics.uci.edu/collaborators
+http://futurehealth.ics.uci.edu/keydisciplines
+https://www.ics.uci.edu/~alfchen
+https://www.stat.uci.edu/faculty/tianchen-qian
+https://www.ics.uci.edu/~mjcarey
+https://www.informatics.uci.edu/explore/faculty-profiles/kai-zheng
+http://www.ics.uci.edu/~zhengkai
+https://www.informatics.uci.edu/explore/faculty-profiles/sean-young
+https://www.informatics.uci.edu/explore/faculty-profiles/andre-van-der-hoek
+https://www.informatics.uci.edu/explore/faculty-profiles/aaron-trammell
+https://www.informatics.uci.edu/explore/faculty-profiles/bill-tomlinson
+http://www.ics.uci.edu/~wmt
+https://www.informatics.uci.edu/explore/faculty-profiles/richard-taylor
+http://www.ics.uci.edu/~taylor
+https://www.informatics.uci.edu/explore/faculty-profiles/tess-tanenbaum
+https://transformativeplay.ics.uci.edu
+https://transformativeplay.ics.uci.edu/classes
+https://transformativeplay.ics.uci.edu/classes/in4rmatx-295-digital-media-games
+https://transformativeplay.ics.uci.edu/classes/ics-163-mobile-ubiquitous-games
+https://transformativeplay.ics.uci.edu/pervasive-games-film-festival
+https://transformativeplay.ics.uci.edu/inf-242-winter-2017
+https://transformativeplay.ics.uci.edu/classes/ics-169-capstone
+https://transformativeplay.ics.uci.edu/classes/inf-241-introduction-to-ubiquitous-computing
+https://transformativeplay.ics.uci.edu/arvr-theater-syllabus
+https://transformativeplay.ics.uci.edu/global-game-jam-2018
+http://www.ics.uci.edu/about/facilities
+http://www.ics.uci.edu/community/alumni
+https://www.ics.uci.edu/community
+https://www.ics.uci.edu/resources/coronavirus
+https://www.ics.uci.edu/resources
+https://www.ics.uci.edu/accessibility
+https://www.ics.uci.edu/employment
+https://www.ics.uci.edu/resources/researchdevelopment
+https://intranet.ics.uci.edu
+https://intranet.ics.uci.edu/doku.php/start
+https://www.ics.uci.edu/employment/employ_faculty
+https://industryshowcase.ics.uci.edu
+https://industryshowcase.ics.uci.edu/2019-industryshowcase
+https://industryshowcase.ics.uci.edu/2019-industryshowcase/student-preparation
+https://industryshowcase.ics.uci.edu/2019-industryshowcase/speakers-2019
+https://www.ics.uci.edu/~sudderth
+http://www.ics.uci.edu/about/visit
+https://www.ics.uci.edu/~ihler
+http://sli.ics.uci.edu/Group/Group
+http://www.ics.uci.edu/~johutchi
+http://www.ics.uci.edu/~ajfrank
+http://www.ics.uci.edu/~johnsong
+http://archive.ics.uci.edu/ml
+http://www.ics.uci.edu/~duboisc
+http://www.ics.uci.edu/~agelfand
+http://www.ics.uci.edu/~qlou
+http://sli.ics.uci.edu/Code/Code
+http://sli.ics.uci.edu/Code/GPRTimeshift
+http://sli.ics.uci.edu/Code/-
+http://sli.ics.uci.edu/Code
+http://sli.ics.uci.edu/Code/MMPP
+http://archive.ics.uci.edu/ml/datasets/Dodgers+Loop+Sensor
+http://archive.ics.uci.edu/index.html
+http://archive.ics.uci.edu/ml/datasets/CalIt2+Building+People+Counts
+http://sli.ics.uci.edu/Pubs/Abstracts
+http://sli.ics.uci.edu/Pubs
+http://sli.ics.uci.edu/Pubs/Bibliography
+http://sli.ics.uci.edu/Pubs/Pubs
+http://sli.ics.uci.edu/Code/Adaptive
+http://www.ics.uci.edu/~ihler/papers/abs.html
+http://www.ics.uci.edu/~ihler/personal
+http://sli.ics.uci.edu/Classes/2011W-178
+http://sli.ics.uci.edu/Classes/2010W-178
+http://sli.ics.uci.edu/Classes/2011W-178-Review
+http://sli.ics.uci.edu/Classes-CS178-Notes
+http://sli.ics.uci.edu/Classes-CS178-Notes/PCA
+http://sli.ics.uci.edu/Classes-CS178-Notes/GmmEM
+http://sli.ics.uci.edu/Classes-CS178-Notes/HierarchAC
+http://sli.ics.uci.edu/Classes-CS178-Notes/KMeans
+http://sli.ics.uci.edu/Classes-CS178-Notes/Boosting
+http://sli.ics.uci.edu/Classes-CS178-Notes/Bagging
+http://sli.ics.uci.edu/Classes-CS178-Notes/DecisionTrees
+http://sli.ics.uci.edu/Classes-CS178-Notes/LogisticReg
+http://sli.ics.uci.edu/Classes-CS178-Notes/LinearClassify
+http://sli.ics.uci.edu/Classes-CS178-Notes/BayesClassify
+http://sli.ics.uci.edu/Classes-CS178-Notes/Probability
+http://sli.ics.uci.edu/Classes-CS178-Notes/KNearestNeighbors
+http://sli.ics.uci.edu/Classes-CS178-Notes/Classification
+http://sli.ics.uci.edu/Classes-CS178-Notes/Regression
+http://sli.ics.uci.edu/Classes-CS178-Notes/Matlab-Classes
+http://sli.ics.uci.edu/Classes-CS178-Notes/Matlab
+http://sli.ics.uci.edu/Classes-CS178-Notes/Classes-CS178-Notes
+http://sli.ics.uci.edu/Classes
+http://sli.ics.uci.edu/Classes/2008W
+http://sli.ics.uci.edu/Classes/2008S
+http://sli.ics.uci.edu/Classes/2008CSE
+http://sli.ics.uci.edu/Classes/CSEResources
+http://sli.ics.uci.edu/Classes/CSEProjectIdeas
+http://sli.ics.uci.edu/Classes/2008F
+http://sli.ics.uci.edu/Classes-2008F/Finance
+http://sli.ics.uci.edu/Classes-2008F/Tools
+http://sli.ics.uci.edu/Classes-2008F/Flocking
+http://sli.ics.uci.edu/Classes-2008F/MLN
+http://sli.ics.uci.edu/Classes-2008F/Puzzle
+http://sli.ics.uci.edu/Classes-2008F/CTMSegmentation
+http://sli.ics.uci.edu/Classes-2008F/UsefulBackground
+http://sli.ics.uci.edu/Classes-2008F/RelatedTechniques
+http://sli.ics.uci.edu/Classes-2008F/JigsawPuzzleSolvers
+http://sli.ics.uci.edu/Classes-2008F/Outline
+http://sli.ics.uci.edu/Classes-2008F/Announcements
+http://sli.ics.uci.edu/Classes-2008F/Discussion
+http://sli.ics.uci.edu/Classes-2008F
+http://sli.ics.uci.edu/Classes-2008F/Classes-2008F
+http://sli.ics.uci.edu/Classes-2008F/Main
+http://sli.ics.uci.edu/Classes/2009W
+http://sli.ics.uci.edu/Classes/2009S
+http://sli.ics.uci.edu/Classes/2010W-274a
+http://sli.ics.uci.edu/Classes/2010S-295
+http://sli.ics.uci.edu/Classes/2011F-171
+http://sli.ics.uci.edu/Classes/2012W-178
+http://sli.ics.uci.edu/Classes/2012S-274b
+http://sli.ics.uci.edu/Code/Matlab-Factor
+http://sli.ics.uci.edu/Classes/2012S-274b-ProjectIdeas
+http://sli.ics.uci.edu/Classes/2012F-273a
+http://sli.ics.uci.edu/Classes/2012F-178
+http://sli.ics.uci.edu/Classes/2013S-77B
+http://sli.ics.uci.edu/Classes/2013S-77B-Misc
+http://sli.ics.uci.edu/Classes/2013-iCamp
+http://sli.ics.uci.edu/Classes/2013F-273a
+http://sli.ics.uci.edu/Classes/2014W-178
+http://sli.ics.uci.edu/Classes/2014S-274b
+http://sli.ics.uci.edu/Classes/2014S-274b-ProjectIdeas
+http://sli.ics.uci.edu/Classes/2015W-273a
+http://sli.ics.uci.edu/Classes/2015W-178
+http://www.ics.uci.edu/~ngallo1
+http://sli.ics.uci.edu/Classes/2015F-179
+http://sli.ics.uci.edu/Classes/2016W-178
+http://sli.ics.uci.edu/extras/cs178/DTree_Demo.html
+http://sli.ics.uci.edu/extras/cs178/NNet_Demo.html
+http://sli.ics.uci.edu/extras/cs178/LinearSVM_Demo.html
+http://sli.ics.uci.edu/extras/cs178/Perceptron_Demo.html
+http://sli.ics.uci.edu/extras/cs178/Intro_Tutorial.html
+http://sli.ics.uci.edu/Classes/2016S-274b
+http://sli.ics.uci.edu/Classes/2016S-274b-ProjectIdeas
+http://sli.ics.uci.edu/Classes/2011S-274a
+http://sli.ics.uci.edu/Classes/2011S-271
+http://www.ics.uci.edu/~ihler/code
+http://www.ics.uci.edu/~ihler/pubs.html
+http://www.ics.uci.edu/~ihler/papers/bib.html
+http://www.ics.uci.edu/~ihler/bio.html
+http://sli.ics.uci.edu/Projects/Projects
+http://sli.ics.uci.edu/Projects/Nonparametric
+http://sli.ics.uci.edu/Projects
+http://sli.ics.uci.edu/Projects/Sensor
+http://sli.ics.uci.edu/Projects/BP
+http://sli.ics.uci.edu/Projects/Event
+http://sli.ics.uci.edu/Projects/RCTree
+http://sli.ics.uci.edu/Site/Search
+https://sli.ics.uci.edu/Site
+https://sli.ics.uci.edu/Site/UserCreation
+https://sli.ics.uci.edu/Site/ListAllPages
+https://sli.ics.uci.edu/Site/Status
+https://sli.ics.uci.edu/Site/RecentChanges
+https://sli.ics.uci.edu/Site/GroupAttributes
+https://sli.ics.uci.edu/Pubs/RecentChanges
+https://sli.ics.uci.edu/Pubs/PubsDB
+https://sli.ics.uci.edu/Projects/Vision
+https://sli.ics.uci.edu/Projects/RecentChanges
+https://sli.ics.uci.edu/Projects/GraphicalModels
+https://sli.ics.uci.edu/Projects/DataMining
+https://sli.ics.uci.edu/Profiles/RecentChanges
+http://sli.ics.uci.edu/Profiles
+https://sli.ics.uci.edu/Profiles/Priya
+https://sli.ics.uci.edu/Profiles/Ihler
+https://sli.ics.uci.edu/Profiles/Profiles
+https://sli.ics.uci.edu/PmWiki/WikiWords
+http://sli.ics.uci.edu/PmWiki
+https://sli.ics.uci.edu/PmWiki/WikiWord
+https://sli.ics.uci.edu/PmWiki/WikiWikiWeb
+https://sli.ics.uci.edu/PmWiki/WikiTrails
+https://sli.ics.uci.edu/PmWiki/WikiStyles
+https://sli.ics.uci.edu/PmWiki/WikiStyleExamples
+https://sli.ics.uci.edu/PmWiki/WikiStructure
+https://sli.ics.uci.edu/PmWiki/WikiSandbox
+http://sli.ics.uci.edu/Main
+https://sli.ics.uci.edu/PmWiki/WikiPage
+https://sli.ics.uci.edu/PmWiki/WikiGroups
+https://sli.ics.uci.edu/PmWiki/WikiGroup
+https://sli.ics.uci.edu/PmWiki/WikiFarmTerminology
+https://sli.ics.uci.edu/PmWiki/WikiFarms
+https://sli.ics.uci.edu/PmWiki/WikiAdministrator
+https://sli.ics.uci.edu/PmWiki/WebFeeds
+https://sli.ics.uci.edu/PmWiki/Version
+https://sli.ics.uci.edu/PmWiki/Variables
+https://sli.ics.uci.edu/PmWiki/UTF-8
+https://sli.ics.uci.edu/PmWiki/UrlApprovals
+https://sli.ics.uci.edu/PmWiki/UploadVariables
+https://sli.ics.uci.edu/PmWiki/UploadsAdmin
+https://sli.ics.uci.edu/PmWiki/Uploads
+https://sli.ics.uci.edu/PmWiki/UpgradingFromPmWiki1
+https://sli.ics.uci.edu/PmWiki/Upgrades
+https://sli.ics.uci.edu/PmWiki/Troubleshooting
+https://sli.ics.uci.edu/PmWiki/TextFormattingRules
+https://sli.ics.uci.edu/PmWiki/Tables
+https://sli.ics.uci.edu/PmWiki/TableDirectives
+https://sli.ics.uci.edu/PmWiki/SpecialCharacters
+https://sli.ics.uci.edu/PmWiki/SkinTemplates
+https://sli.ics.uci.edu/PmWiki/Skins
+https://sli.ics.uci.edu/PmWiki/SitePreferences
+https://sli.ics.uci.edu/PmWiki/SitePageActions
+https://sli.ics.uci.edu/PmWiki/SimultaneousEdits
+https://sli.ics.uci.edu/PmWiki/SecurityVariables
+https://sli.ics.uci.edu/PmWiki/Security
+https://sli.ics.uci.edu/PmWiki/Search
+https://sli.ics.uci.edu/PmWiki/Requirements
+https://sli.ics.uci.edu/PmWiki/ReleaseNotes
+https://sli.ics.uci.edu/PmWiki/RefCount
+https://sli.ics.uci.edu/PmWiki/PmWikiPhilosophy
+https://sli.ics.uci.edu/PmWiki/PerGroupCustomizations
+https://sli.ics.uci.edu/PmWiki/PatrickMichaud
+https://sli.ics.uci.edu/PmWiki/PathVariables
+https://sli.ics.uci.edu/PmWiki/Passwords
+https://sli.ics.uci.edu/PmWiki/PageVariables
+https://sli.ics.uci.edu/PmWiki/PageTextVariables
+https://sli.ics.uci.edu/PmWiki/PagelistVariables
+https://sli.ics.uci.edu/PmWiki/PageListTemplates
+https://sli.ics.uci.edu/PmWiki/PageLists
+https://sli.ics.uci.edu/PmWiki/PageHistory
+https://sli.ics.uci.edu/PmWiki/PageFileFormat
+https://sli.ics.uci.edu/PmWiki/PageDirectives
+https://sli.ics.uci.edu/PmWiki/OtherVariables
+https://sli.ics.uci.edu/PmWiki/Notify
+https://sli.ics.uci.edu/PmWiki/MarkupMasterIndex
+https://sli.ics.uci.edu/PmWiki/MarkupExpressions
+https://sli.ics.uci.edu/PmWiki/MailPosts
+https://sli.ics.uci.edu/PmWiki/MailingLists
+https://sli.ics.uci.edu/PmWiki/LocalCustomizations
+https://sli.ics.uci.edu/PmWiki/LinkVariables
+https://sli.ics.uci.edu/PmWiki/Links
+https://sli.ics.uci.edu/PmWiki/LayoutVariables
+https://sli.ics.uci.edu/PmWiki/Introduction
+https://sli.ics.uci.edu/PmWiki/Internationalizations
+https://sli.ics.uci.edu/PmWiki/InterMap
+https://sli.ics.uci.edu/PmWiki/Installation
+https://sli.ics.uci.edu/PmWiki/InitialSetupTasks
+https://sli.ics.uci.edu/PmWiki/IncludeOtherPages
+https://sli.ics.uci.edu/PmWiki/Images
+https://sli.ics.uci.edu/PmWiki/I18nVariables
+https://sli.ics.uci.edu/PmWiki/GroupHeaders
+https://sli.ics.uci.edu/PmWiki/GroupHeader
+https://sli.ics.uci.edu/PmWiki/GroupFooter
+https://sli.ics.uci.edu/PmWiki/GroupCustomizations
+https://sli.ics.uci.edu/PmWiki/Glossary
+https://sli.ics.uci.edu/PmWiki/Functions
+https://sli.ics.uci.edu/PmWiki/Forms
+https://sli.ics.uci.edu/PmWiki/FmtPageName
+https://sli.ics.uci.edu/PmWiki/FilePermissions
+https://sli.ics.uci.edu/PmWiki/EditVariables
+https://sli.ics.uci.edu/PmWiki/Drafts
+https://sli.ics.uci.edu/PmWiki/DocumentationIndex
+https://sli.ics.uci.edu/PmWiki/DesignNotes
+https://sli.ics.uci.edu/PmWiki/DeletingPages
+https://sli.ics.uci.edu/PmWiki/DebugVariables
+https://sli.ics.uci.edu/PmWiki/CustomWikiStyles
+https://sli.ics.uci.edu/PmWiki/CustomInterMap
+https://sli.ics.uci.edu/PmWiki/CreatingNewPages
+https://sli.ics.uci.edu/PmWiki/Contributors
+https://sli.ics.uci.edu/PmWiki/ContactUs
+https://sli.ics.uci.edu/PmWiki/ConditionalMarkup
+https://sli.ics.uci.edu/PmWiki/ChangesFromPmWiki1
+https://sli.ics.uci.edu/PmWiki/ChangeLog
+https://sli.ics.uci.edu/PmWiki/Categories
+https://sli.ics.uci.edu/PmWiki/BlockMarkup
+https://sli.ics.uci.edu/PmWiki/Blocklist
+https://sli.ics.uci.edu/PmWiki/BasicVariables
+https://sli.ics.uci.edu/PmWiki/BasicEditing
+https://sli.ics.uci.edu/PmWiki/BackupAndRestore
+https://sli.ics.uci.edu/PmWiki/AvailableActions
+https://sli.ics.uci.edu/PmWiki/AuthUser
+https://sli.ics.uci.edu/PmWiki/Audiences
+https://sli.ics.uci.edu/PmWiki/AccessKeys
+https://sli.ics.uci.edu/PmWiki/PmWiki
+https://sli.ics.uci.edu/Notes/RecentChanges
+http://sli.ics.uci.edu/Notes/NIPS2009
+https://sli.ics.uci.edu/Misc/RecentChanges
+http://sli.ics.uci.edu/Misc/Willsky
+https://sli.ics.uci.edu/Main/WikiSandbox
+https://sli.ics.uci.edu/Main/RecentChanges
+https://sli.ics.uci.edu/Main/HomePage
+https://sli.ics.uci.edu/Library/RecentChanges
+http://sli.ics.uci.edu/Library/Posters
+http://sli.ics.uci.edu/Library
+https://sli.ics.uci.edu/Library/Library
+https://sli.ics.uci.edu/Ihler/RecentChanges
+https://sli.ics.uci.edu/Ihler-Photos/RecentChanges
+http://sli.ics.uci.edu/Ihler-Photos/House
+http://sli.ics.uci.edu/Ihler-Photos/Bobby
+http://sli.ics.uci.edu/Ihler-Photos
+https://sli.ics.uci.edu/Ihler-Photos/Japan-Deva
+https://sli.ics.uci.edu/Ihler-Photos/Japan
+https://sli.ics.uci.edu/Ihler-Photos/Africa
+https://sli.ics.uci.edu/Ihler-Photos/Ihler-Photos
+https://sli.ics.uci.edu/Group/SideBar
+http://sli.ics.uci.edu/Group
+https://sli.ics.uci.edu/Group/RecentChanges
+https://sli.ics.uci.edu/Group/Johutchi
+https://sli.ics.uci.edu/Group/Ihler
+https://sli.ics.uci.edu/Group-Meetings/RecentChanges
+https://sli.ics.uci.edu/Group-Meetings/2013W
+https://sli.ics.uci.edu/Grants/RecentChanges
+http://sli.ics.uci.edu/Grants/2008SciSIP
+https://sli.ics.uci.edu/Competitions/RecentChanges
+http://sli.ics.uci.edu/Competitions
+http://archive.ics.uci.edu/ml/datasets/Netflix+Prize
+https://sli.ics.uci.edu/Competitions/Competitions
+https://sli.ics.uci.edu/Code/RecentChanges
+http://sli.ics.uci.edu/Code/MxFactor
+https://sli.ics.uci.edu/Code/MxObjects
+https://sli.ics.uci.edu/Code/MxGraphModel
+https://sli.ics.uci.edu/Code/Learners
+https://sli.ics.uci.edu/Classes/RecentChanges
+http://sli.ics.uci.edu/Classes/CS274A-Notes
+http://sli.ics.uci.edu/Classes/2008F-Discussion
+https://sli.ics.uci.edu/Classes/NSC
+https://sli.ics.uci.edu/Classes/CSE181
+https://sli.ics.uci.edu/Classes/CS178-Regression
+https://sli.ics.uci.edu/Classes/2015F-179-ProjectIdeas
+https://sli.ics.uci.edu/Classes-CS271-Notes/SearchHeuristic
+http://sli.ics.uci.edu/Classes-CS271-Notes
+https://sli.ics.uci.edu/Classes-CS271-Notes/RecentChanges
+https://sli.ics.uci.edu/Classes-CS271-Notes/Classes-CS271-Notes
+https://sli.ics.uci.edu/Classes-CS18-Notes/RecentChanges
+https://sli.ics.uci.edu/Classes-CS18-Notes/Matlab-Classes
+https://sli.ics.uci.edu/Classes-CS178-Notes/RecentChanges
+https://sli.ics.uci.edu/Classes-CS178-Notes/GroupAttributes
+https://sli.ics.uci.edu/Classes-2008F/Testing
+https://sli.ics.uci.edu/Classes-2008F/RecentChanges
+https://sli.ics.uci.edu/Classes-2008F/GroupAttributes
+https://sli.ics.uci.edu/Classes-2008/RecentChanges
+https://sli.ics.uci.edu/Classes-2008/Main
+https://sli.ics.uci.edu/Category/GroupFooter
+http://sli.ics.uci.edu/Category
+https://sli.ics.uci.edu/Category/Category
+https://sli.ics.uci.edu/Calendar/RecentChanges
+http://sli.ics.uci.edu/Calendar
+https://sli.ics.uci.edu/Calendar/Calendar
+https://sli.ics.uci.edu/AIStats/RecentChanges
+https://sli.ics.uci.edu/AIStats/Postings
+https://sli.ics.uci.edu/AIML/RecentChanges
+http://sli.ics.uci.edu/AIML/PreNIPS2010
+http://sli.ics.uci.edu/AIML
+https://sli.ics.uci.edu/AIML/AIML
+https://sli.ics.uci.edu/Site/AllRecentChanges
+https://sli.ics.uci.edu/Ihler-Private/SideBar
+http://sli.ics.uci.edu/Ihler-Private
+https://sli.ics.uci.edu/Ihler-Private/Ihler-Private
+https://sli.ics.uci.edu/Ihler-Private/People
+https://sli.ics.uci.edu/Ihler-Private/Papers
+https://sli.ics.uci.edu/Ihler-Private/WebResources
+https://sli.ics.uci.edu/Ihler-Private/Research
+https://sli.ics.uci.edu/Ihler-Private/ToDo-gtddata
+https://sli.ics.uci.edu/Ihler-Private/ToDo
+https://sli.ics.uci.edu/Ihler-Private/Personal
+https://sli.ics.uci.edu/Ihler-Private/Charges
+https://sli.ics.uci.edu/Ihler-Private/ScratchPad
+https://sli.ics.uci.edu/Ihler-Private/AddSideBar
+https://sli.ics.uci.edu/SiteAdmin/AuthUser
+https://sli.ics.uci.edu/SiteAdmin
+https://sli.ics.uci.edu/SiteAdmin/SiteAdmin
+https://sli.ics.uci.edu/Johutchi-Private/Johutchi-Private
+http://sli.ics.uci.edu/Johutchi-Private
+https://sli.ics.uci.edu/Johutchi-Private/AddSideBar
+https://sli.ics.uci.edu/Grants-2008NSF/Main
+http://sli.ics.uci.edu/Grants-2008NSF
+https://sli.ics.uci.edu/Grants-2008NSF/HomePage
+https://sli.ics.uci.edu/Grants-2008SciSIP/Summary
+http://sli.ics.uci.edu/Grants-2008SciSIP
+http://sli.ics.uci.edu/Grants-2008SciSIP/Grants-2008SciSIP
+https://sli.ics.uci.edu/Grants-2008SciSIP/Main
+https://sli.ics.uci.edu/Site/UploadQuickReference
+https://sli.ics.uci.edu/Site/EditQuickReference
+https://sli.ics.uci.edu/Site/HtPasswd
+https://sli.ics.uci.edu/Site/AuthUser
+https://sli.ics.uci.edu/Site/AuthForm
+https://sli.ics.uci.edu/Site/Preferences
+https://sli.ics.uci.edu/Site/PageListTemplates
+https://sli.ics.uci.edu/Site/PageNotFound
+https://sli.ics.uci.edu/Site/PageActions
+https://sli.ics.uci.edu/Site/EditForm
+https://sli.ics.uci.edu/Site/SideBar
+https://sli.ics.uci.edu/PmWiki/PasswordsAdmin
+https://sli.ics.uci.edu/Site/Site
+http://sli.ics.uci.edu/Ihler-Photos/Main
+http://sli.ics.uci.edu
+http://sli.ics.uci.edu/Classes/Classes
+https://acoi.ics.uci.edu/seminar-series
+https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet
+https://acoi.ics.uci.edu/seminars
+https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation
+https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc
+https://acoi.ics.uci.edu/seminars/topological-network-alignment-comes-of-age
+https://acoi.ics.uci.edu/seminars/non-convex-optimization-and-structured-signal-recovery
+https://acoi.ics.uci.edu/seminars/dudeneys-no-three-in-line-problem
+https://acoi.ics.uci.edu/seminars/solving-an-ill-posed-inverse-problem-of-three-dimensional-3d-vision
+https://acoi.ics.uci.edu/seminars/capacity-of-neural-networks
+https://acoi.ics.uci.edu/seminars/stable-matching-voronoi-diagrams-combinatorial-complexity-and-algorithms
+https://acoi.ics.uci.edu/seminars/sparse-polynomial-approximations-and-their-applications-to-quantum-advantage-parallel-computation-and-pseudorandomness
+https://acoi.ics.uci.edu/seminars/transparency-and-control-in-platforms-networked-markets
+https://acoi.ics.uci.edu/seminars/matching-is-as-easy-as-the-decision-problem-in-the-nc-model
+https://acoi.ics.uci.edu/seminars/statistical-estimation-with-strategic-data-holders
+https://acoi.ics.uci.edu/seminars/the-edgeworth-conjecture-with-small-coalitions-and-approximate-equilibria-in-large-economies
+https://acoi.ics.uci.edu/seminars/a-strongly-polynomial-algorithm-for-linear-exchange-markets
+https://acoi.ics.uci.edu/seminars/the-power-of-asking-more-informative-questions
+https://acoi.ics.uci.edu/seminars/classical-verification-of-quantum-computations
+https://acoi.ics.uci.edu/seminars/nonlinear-regression-via-convex-programming
+https://acoi.ics.uci.edu/seminars/tba-1
+https://acoi.ics.uci.edu/seminars/formal-verification-of-edmonds-blossom-algorithm
+https://acoi.ics.uci.edu/seminars/no-signaling-proofs-their-applications-and-their-power
+https://acoi.ics.uci.edu/seminars/universal-laws-and-architectures-in-complex-networked-systems-with-applications-to-sensorimotor-control
+https://acoi.ics.uci.edu/seminars/optimization-techniques-for-complex-energy-infrastructure-systems
+https://acoi.ics.uci.edu/seminars/tba-5
+https://acoi.ics.uci.edu/seminars/fountain-codes-with-applications
+https://acoi.ics.uci.edu/seminars/tba
+https://acoi.ics.uci.edu/seminars/combinatorial-optimization-algorithms-for-clustering-and-machine-learning
+https://acoi.ics.uci.edu/seminars/minimum-weight-combinatorial-structures-under-random-cost-constraints
+https://acoi.ics.uci.edu/seminars/the-maximum-diameter-of-oriented-matroids
+https://acoi.ics.uci.edu/seminars/496
+https://acoi.ics.uci.edu/seminars/fast-sampling-via-spectral-independence-beyond-bounded-degree-graphs
+https://acoi.ics.uci.edu/seminars/the-quarks-of-attention
+https://acoi.ics.uci.edu/seminars/building-optimization-beyond-minimization-a-journey-in-game-dynamics
+https://acoi.ics.uci.edu/seminars/efficient-certifiable-randomness
+https://acoi.ics.uci.edu/seminars/parametric-learning-for-directed-graphical-models
+https://acoi.ics.uci.edu/seminars/mean-estimation-with-user-level-privacy-under-data-heterogeneity
+https://acoi.ics.uci.edu/seminars/tight-multi-unit-prophet-inequalities-with-application-to-online-allocation
+https://acoi.ics.uci.edu/seminars/computational-phase-transition-and-mcmc-algorithms
+https://acoi.ics.uci.edu/seminars/equilibrium-computation-and-machine-learning
+https://acoi.ics.uci.edu/seminars/mean-estimation-in-low-and-high-dimensions
+https://acoi.ics.uci.edu/seminars/new-insights-into-the-classic-shapley-shubik-work-the-core-of-the-matching-game
+https://acoi.ics.uci.edu/seminars/sample-efficient-distribution-testing-using-centralized-or-distributed-computation
+https://acoi.ics.uci.edu/seminars/from-adwords-to-online-matching-with-stochastic-rewards-and-back
+https://acoi.ics.uci.edu/seminars/efficiency-and-fairness-in-random-resource-allocation-and-social-choice
+https://acoi.ics.uci.edu/seminars/approximation-algorithms-for-network-design
+https://acoi.ics.uci.edu/seminars/auto-bidding-auctions-and-allocation-in-internet-advertising-fundamental-results-and-new-trends
+https://acoi.ics.uci.edu/seminars/a-near-cubic-lower-bound-for-3-query-locally-decodable-codes
+https://acoi.ics.uci.edu/seminars/robust-learning-of-mixtures-of-gaussians
+https://acoi.ics.uci.edu/contact
+https://acoi.ics.uci.edu/news
+https://acoi.ics.uci.edu/2019/04/04/socal-theory-day
+https://acoi.ics.uci.edu/2019/04/04
+https://acoi.ics.uci.edu/2019/04
+https://acoi.ics.uci.edu/2019
+https://acoi.ics.uci.edu/2019/04/04/inaugural-distinguished-lecture-by-les-valiant
+https://acoi.ics.uci.edu/2019/08/20/perspectives-on-the-design-of-approximation-algorithms
+https://acoi.ics.uci.edu/2019/08/20
+https://acoi.ics.uci.edu/2019/08
+https://acoi.ics.uci.edu/2019/10/30/aco-annual-distinguished-lecture-by-michel-goemans
+https://acoi.ics.uci.edu/2019/10/30
+https://acoi.ics.uci.edu/2019/10
+https://acoi.ics.uci.edu/2021/10/18/latent-polytopes-recover-generative-models
+https://acoi.ics.uci.edu/2021/10/18
+https://acoi.ics.uci.edu/2021/10
+https://acoi.ics.uci.edu/2021
+https://acoi.ics.uci.edu/category/news
+https://acoi.ics.uci.edu/2022/02/21/aco-annual-distinguished-lecture-by-yinyu-ye
+https://acoi.ics.uci.edu/2022/02/21
+https://acoi.ics.uci.edu/2022/02
+https://acoi.ics.uci.edu/2022
+https://www.ics.uci.edu/~theory
+http://www.ics.uci.edu/~darkhipo
+http://www.ics.uci.edu/~rasadi
+http://www.ics.uci.edu/~standish
+http://www.ics.uci.edu/~lueker
+http://www.ics.uci.edu/~dan
+http://www.ics.uci.edu/~theory/269
+https://www.ics.uci.edu/~ttrbst
+https://www.ics.uci.edu/~eozel
+https://www.ics.uci.edu/~khodabah
+https://www.ics.uci.edu/~guptasid
+https://www.ics.uci.edu/~fukuzaws
+https://www.ics.uci.edu/~dfrishbe
+https://www.ics.uci.edu/~afsharr
+http://www.ics.uci.edu/~vazirani
+https://www.ics.uci.edu/~rgangam
+https://www.ics.uci.edu/~mikes
+https://www.ics.uci.edu/~stasio
+http://www.ics.uci.edu/~stasio/Papers/js04-abs.html
+http://www.ics.uci.edu/~stasio/Papers/cjkt04-abs.html
+http://www.ics.uci.edu/~stasio/Papers/dfjw04-abs.html
+http://www.ics.uci.edu/~stasio/Papers/jsy04-abs.html
+http://www.ics.uci.edu/~stasio/Papers/cjt04-abs.html
+http://www.ics.uci.edu/~stasio/winter06/ics22H.html
+http://www.ics.uci.edu/~stasio/winter06/lab5/lab5.html
+http://www.ics.uci.edu/~stasio/winter06/lab4/lab4.html
+http://www.ics.uci.edu/~stasio/winter06/Lectures/Lec7code/ComparableExample
+http://www.ics.uci.edu/~stasio/winter06/Lectures/Lec7code
+http://www.ics.uci.edu/~stasio/winter06/Lectures/Lec6code
+http://www.ics.uci.edu/~stasio/winter06/lab3/Sol
+http://www.ics.uci.edu/~stasio/winter06/lab3
+http://www.ics.uci.edu/~stasio/winter06/lab3/lab3.html
+http://www.ics.uci.edu/~stasio/winter06/lab2/lab2.html
+http://www.ics.uci.edu/~stasio/winter06/lab2/input.in
+http://www.ics.uci.edu/~stasio/winter06/lab1/lab1.html
+http://www.ics.uci.edu/computing/unix
+http://www.ics.uci.edu/~lab
+http://www.ics.uci.edu/community/news/student_blogs
+http://www.ics.uci.edu/community/news/press
+http://www.ics.uci.edu/ugrad/courses/index
+https://www.ics.uci.edu/ugrad/courses
+http://www.ics.uci.edu/grad/policies/index
+https://www.ics.uci.edu/grad/policies
+https://www.ics.uci.edu/grad
+http://www.ics.uci.edu/grad/forms/index
+https://www.ics.uci.edu/grad/forms
+http://www.ics.uci.edu/grad/courses/index
+https://www.ics.uci.edu/grad/courses
+http://www.ics.uci.edu/~stasio/winter06/Lectures
+http://www.ics.uci.edu/~stasio/winter06
+http://www.ics.uci.edu/~stasio/winter06/lab_intro.html
+http://www.ics.uci.edu/%7Ethornton/ics22/LabManual/SettingUpJava.html
+http://www.ics.uci.edu/~thornton
+http://www.ics.uci.edu/~kay
+http://www.ics.uci.edu/~kay/labtutors
+http://www.ics.uci.edu/~kay/teachingics.html
+http://www.ics.uci.edu/~kay/ask.html
+http://www.ics.uci.edu/~kay/checker.html
+http://www.ics.uci.edu/~kay/turnitin.html
+http://www.ics.uci.edu/~kay/taguide.html
+http://www.ics.uci.edu/~kay/labtutor.html
+http://www.ics.uci.edu/~kay/college-advice
+http://www.ics.uci.edu/~kay/college.html
+http://www.ics.uci.edu/computerscience
+https://www.cs.uci.edu/senior-spotlight-jose-cisneros-builds-impressive-resume-with-trio-of-internships
+https://www.cs.uci.edu/ucla-and-uci-research-team-receives-nsf-grant-for-pandemic-prediction
+https://www.cs.uci.edu/sangeetha-abdu-jyothi-named-a-rising-star-in-networking-and-communications
+https://www.cs.uci.edu/michael-franz-earns-distinguished-professor-title
+https://www.cs.uci.edu/marco-levorato-to-give-keynote-at-ieee-healthcom
+https://www.cs.uci.edu/cutting-edge-work-in-topological-network-alignment-by-wayne-hayes-and-students
+https://www.cs.uci.edu/stephan-mandt-named-mercator-fellow
+https://www.cs.uci.edu/conference-experience-confirms-competitive-edge-of-ics-capstone-program
+https://www.cs.uci.edu/ics-and-google-researchers-awarded-best-task-paper-for-collaboration-on-automatically-updating-wikipedia
+https://www.cs.uci.edu/master-of-computer-science-students-pitch-products-and-network-at-spring-2022-showcase
+https://www.cs.uci.edu/uci-ml-repository-highlights-four-impactful-projects-at-2022-ml-hackathon
+https://www.cs.uci.edu/faculty-and-staff-honored-at-annual-ics-awards-celebration
+https://www.cs.uci.edu/ics-project-expo-strengthens-industry-engagement-and-showcases-student-talent
+https://www.cs.uci.edu/uci-takes-fourth-place-in-first-appearance-at-embedded-capture-the-flag-competition
+https://www.cs.uci.edu/2022-butterworth-product-development-competition-back-in-full-swing
+https://www.cs.uci.edu/computer-science-researchers-collaborating-on-1-2m-nsf-grant-to-study-geometric-graphs
+https://www.cs.uci.edu/uci-news-uci-wins-5-year-14m-nih-grant-to-study-brain-circuits-susceptible-to-aging-alzheimers-disease-gopi-meenakshisundaram-mentioned
+https://www.cs.uci.edu/pierre-baldi-tackles-deep-learning-at-800th-anniversary-of-the-university-of-padova-in-italy
+https://www.cs.uci.edu/the-conversation-what-are-digital-twins-a-pair-of-computer-modeling-experts-explain-co-author-nalini-venkatasubramanian
+https://www.cs.uci.edu/futurity-roadside-objects-can-trick-driverless-cars-alfred-chen-quoted
+https://www.cs.uci.edu/uci-news-uci-researchers-autonomous-vehicles-can-be-tricked-into-dangerous-driving-behavior
+https://www.cs.uci.edu/wired-google-has-a-plan-to-stop-its-new-ai-from-being-dirty-and-rude-sameer-singh-quoted
+https://www.cs.uci.edu/nsf-announces-2022-graduate-research-fellows
+https://www.cs.uci.edu/alumni-spotlight-ludovico-verniani-21-rewards-adventure-with-quadra-app
+https://www.cs.uci.edu/uci-celebration-of-teaching-honors-three-ics-faculty-members
+https://www.cs.uci.edu/uci-machine-learning-repository-to-host-2022-ml-hackathon
+https://www.cs.uci.edu/inaugural-ics-summer-academy-on-data-analytics-now-accepting-applications
+https://www.cs.uci.edu/the-zotbins-team-continues-to-grow-supporting-ucis-move-to-zero-waste
+https://www.cs.uci.edu/multidisciplinary-collaborators-set-their-sights-on-color-vision-in-the-dark
+https://www.cs.uci.edu/machine-learning-street-talk-podcast-features-reality-check-from-sameer-singh-and-yasaman-razeghi
+https://www.cs.uci.edu/ics-researchers-win-best-paper-award-at-eurosys-2022
+https://www.cs.uci.edu/nlp-benchmarks-ml-devops-interoperability-with-yasaman-razeghi-and-prof-sameer-singh-machine-learning-street-talk-podcast
+https://www.cs.uci.edu/ics-graduate-programs-in-statistics-and-computer-science-among-top-20-for-public-universities
+https://www.cs.uci.edu/culture-of-collaboration-leads-to-cutting-edge-work-in-ai
+https://www.cs.uci.edu/uci-news-ucis-graduate-programs-shine-in-u-s-news-world-report-rankings
+https://www.cs.uci.edu/uci-deep-learning-researchers-advance-theory-and-practice-of-data-compression
+https://www.cs.uci.edu/ukr-ai-develops-ai-model-to-detect-misinformation-on-russia-ukraine-war
+https://www.cs.uci.edu/uci-researchers-draft-legislation-to-incentivize-better-cybersecurity
+https://www.cs.uci.edu/uci-news-uci-researchers-develop-hybrid-human-machine-framework-for-building-smarter-ai
+https://www.cs.uci.edu/hack-at-uci-hosts-hybrid-hackuci-2022
+https://www.cs.uci.edu/ph-d-student-ping-xiang-chen-awarded-j-yang-family-foundation-fellowship
+https://www.cs.uci.edu/womens-history-month-resources-for-empowering-women-in-tech
+https://www.cs.uci.edu/student-spotlight-computer-science-and-music-double-major-joseph-wong-finds-harmony-at-uci
+https://www.cs.uci.edu/alumni-spotlight-anthony-d-mays-is-opening-doors-for-the-next-generation-of-tech-talent
+https://www.cs.uci.edu/student-spotlight-cs-major-alex-meng-makes-an-impact-as-a-resident-advisor
+https://www.cs.uci.edu/black-history-month-sharing-resources-to-expand-diversity-in-tech
+https://duttgroup.ics.uci.edu
+https://duttgroup.ics.uci.edu/2020/04/04/our-paper-by-hamid-and-sina-has-been-selected-as-a-finalist-for-the-icassp-2020-best-paper-award
+https://duttgroup.ics.uci.edu/2020/03/27/wolfgang-hillen-summer-school-2020
+https://duttgroup.ics.uci.edu/author/maityb
+https://duttgroup.ics.uci.edu/category/uncategorized
+https://duttgroup.ics.uci.edu/2018/09/13/accepted-paper-in-globecom2018-conference
+https://duttgroup.ics.uci.edu/2018/09/25/fall18-kick-off-and-welcome-bbq-party
+https://duttgroup.ics.uci.edu/2018/05/16/tiagos-defense
+https://duttgroup.ics.uci.edu/2018/05/01/drg-spring-18-bbq
+https://duttgroup.ics.uci.edu/2017/12/20/2017-end-of-the-year-gathering
+https://duttgroup.ics.uci.edu/2017/12/05/imans-goodbye-lunch
+https://duttgroup.ics.uci.edu/2017/11/12/iccad17
+https://duttgroup.ics.uci.edu/2017/11/07/majids-defense
+https://duttgroup.ics.uci.edu/2017/09/26/2017-fall-quarter-welcoming-bbq
+https://duttgroup.ics.uci.edu/author/chenyinh
+https://duttgroup.ics.uci.edu/2017/12/05/imans-goodbye-lunch/img_0209
+https://duttgroup.ics.uci.edu/2017/12/05/imans-goodbye-lunch/img_0214
+https://duttgroup.ics.uci.edu/tag/bbq
+https://duttgroup.ics.uci.edu/tag/defence
+https://duttgroup.ics.uci.edu/tag/health-care
+https://duttgroup.ics.uci.edu/tag/ews
+https://duttgroup.ics.uci.edu/author/damiri
+https://duttgroup.ics.uci.edu/2018/10/13/won-first-place-at-student-design-contest-held-by-16th-international-system-on-chip-conference
+https://duttgroup.ics.uci.edu/2018/10/23/multidisciplinary-collaborators-awarded-2-1m-to-improve-maternal-care-in-underserved-communities
+https://duttgroup.ics.uci.edu/tag/maternity-care
+https://www.cs.uci.edu/multidisciplinary-collaborators-awarded-2-1m-to-improve-maternal-care-in-underserved-communities
+https://www.cs.uci.edu/professor-levoratos-darpa-project-aims-to-strengthen-autonomous-drone-systems
+https://www.cs.uci.edu/uci-feels-like-home-for-navy-veteran-and-computer-science-major-timothy-tomas
+https://www.cs.uci.edu/multidepartmental-collaboration-on-detecting-code-clones-leads-to-distinguished-paper-award
+https://www.cs.uci.edu/professor-franz-honored-with-humboldt-research-award
+https://www.cs.uci.edu/new-faculty-spotlight-professor-jennifer-wong-ma-shares-her-passion-for-teaching
+https://www.cs.uci.edu/all-five-uci-teams-place-in-top-25-at-socal-regionals-of-the-2018-acm-icpc
+https://www.cs.uci.edu/cpri-hosts-workforce-2020-panel-discussion-and-networking-reception-for-ics-90-students
+https://www.cs.uci.edu/founders-of-coding-club-for-kids-in-homeless-shelters-grateful-for-ucis-support
+https://www.cs.uci.edu/new-faculty-spotlight-professor-sang-woo-jun-eager-to-collaborate-with-uci-students
+https://www.cs.uci.edu/rare-opportunity-to-learn-from-legendary-researcher-jeffrey-d-ullman
+https://www.cs.uci.edu/computer-science-lecturer-shannon-alfaro-named-dtei-faculty-fellow
+https://www.cs.uci.edu/trio-of-ics-professors-preview-tech-trends-for-2019
+https://www.cs.uci.edu/uci-news-improved-land-management-project-co-led-by-uci-gets-4-6-million-in-state-funding-padhraic-smyth-research-group-mentioned
+https://www.cs.uci.edu/ics-honors-four-alumni-at-2019-hall-of-fame-celebration
+https://www.cs.uci.edu/cpri-receives-1-4m-gift-for-securing-the-seams-of-the-internet-of-everything
+https://www.cs.uci.edu/forbes-the-100-leading-pioneers-of-ai-drug-development-pierre-baldi-named
+https://www.cs.uci.edu/abc-australian-citizens-are-unwitting-combatants-in-cyberspace-defence-boss-says
+https://www.cs.uci.edu/pierre-baldis-transformative-ai-leadership
+https://www.cs.uci.edu/professor-scott-jordan-testifies-at-california-assemblys-privacy-hearing
+https://www.cs.uci.edu/senior-spotlight-uci-sets-up-dante-chakravorti-for-continued-success-in-computer-science-and-volleyball-after-graduation
+https://www.cs.uci.edu/ics-researchers-win-ndss-poster-award
+https://www.cs.uci.edu/securing-self-driving-and-smart-transportation
+https://www.cs.uci.edu/aiuci-exploring-the-world-of-artificial-intelligence
+https://www.cs.uci.edu/ardalan-amiri-sanis-nsf-grant-aims-to-secure-mobile-devices
+https://www.cs.uci.edu/professor-iranis-behind-the-scenes-support-of-coding-courses-for-girls
+https://www.cs.uci.edu/%ef%bb%bfsingh-thornton-recognized-for-excellence-in-undergraduate-teaching
+https://www.cs.uci.edu/charless-fowlkes-named-chancellors-fellow
+https://www.cs.uci.edu/cyberuci-clubs-growing-cybersecurity-community-develops-third-place-team
+https://www.cs.uci.edu/ics-partnership-with-allen-institute-for-ai-advances-machine-learning
+https://www.cs.uci.edu/professor-irani-receives-distinguished-service-award
+https://www.cs.uci.edu/ics-finalist-in-uci-stock-market-competition-two-years-in-a-row
+https://www.cs.uci.edu/unlocking-data-for-smart-firefighting
+https://www.cs.uci.edu/upcoming-symposium-on-cutting-edge-ai-biomedicine-research
+https://www.cs.uci.edu/ics-alumnus-nithin-jillas-nonprofit-inspires-students-to-love-stem
+https://www.cs.uci.edu/ics-students-win-best-web-app-at-hacksc
+https://www.cs.uci.edu/ics-welcomes-nobel-laureate-alvin-roth-as-a-distinguished-speaker-june-7
+https://www.cs.uci.edu/uci-school-of-education-interdisciplinary-team-presents-at-urop-supporting-the-education-of-homebound-children-through-cognitive-robotics
+https://www.cs.uci.edu/cnet-amazons-voice-assistant-will-get-smarter-these-new-alexa-prize-teams-will-help-uci-team-advised-by-sameer-sing
+https://www.cs.uci.edu/uci-news-uci-computer-scientists-breathe-life-into-venice-biennale-installations
+https://www.cs.uci.edu/uci-beall-applied-innovation-news-uci-innovators-recognized-at-second-annual-innovator-awards-ceremony-tony-givargis-nominated
+https://www.cs.uci.edu/professor-baldi-co-authors-paper-on-advancing-high-throughput-drug-screening
+https://www.cs.uci.edu/los-angeles-times-uci-computer-scientists-make-art-come-alive-at-the-venice-biennale
+https://www.cs.uci.edu/pierre-baldi-and-peter-sadawski-receive-aij-paper-award
+https://www.cs.uci.edu/pierre-baldi-publishes-paper-in-nature-machine-intelligence
+https://www.cs.uci.edu/uci-news-uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human
+https://www.cs.uci.edu/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human
+https://www.cs.uci.edu/faculty-spotlight-amelia-regans-drive-to-transform-transportation
+https://www.cs.uci.edu/uci-news-building-a-better-bot-cs-students-mentioned
+https://www.cs.uci.edu/si-news-why-north-america-is-the-premier-destination-for-graduate-computer-science-studies
+https://www.cs.uci.edu/daily-pilot-column-with-artificial-intelligence-on-the-rise-humans-should-reconsider-the-way-we-think-about-our-own-pierre-baldi-interviewed
+https://www.cs.uci.edu/professor-shuang-zhao-aims-to-transform-physical-acquisition-pipelines
+https://www.cs.uci.edu/a-trio-of-new-distinguished-professors-in-ics
+https://www.cs.uci.edu/nsf-continues-funding-for-asterixdb-with-2m-grant
+https://www.cs.uci.edu/multidisciplinary-graduate-training-program-advances-wildfire-prediction-research
+https://www.cs.uci.edu/uci-team-uses-machine-learning-to-help-tell-which-wildfires-will-burn-out-of-control-padhraic-smyth-mentioned
+https://www.cs.uci.edu/professor-chens-talk-on-self-driving-security-wins-hotsec-awards
+https://www.cs.uci.edu/qualcomm-funds-research-projects-in-computer-vision-and-machine-learning
+https://www.cs.uci.edu/science-101-ai-solves-a-rubiks-cube-without-human-help-pierre-baldi-research-mentioned
+https://www.cs.uci.edu/uci-other-researchers-develop-deep-learning-technique-to-id-at-risk-anatomy-in-ct-scans
+https://www.cs.uci.edu/turings-invisible-hand-matching-markets-simons-driven-by-theory-driving-the-economy-vijay-vazirani-mentioned
+https://www.cs.uci.edu/ramesh-jain-wins-inaugural-ieee-tcmc-impact-award
+https://www.cs.uci.edu/turings-invisible-hand-blind-folks-and-the-evolving-elephant-by-vijay-vazirani
+https://www.cs.uci.edu/senior-spotlight-taneisha-arora-pursues-her-passions-from-working-in-industry-to-running-a-bakery
+https://www.cs.uci.edu/sangeetha-abdu-jyothi-attends-the-heidelberg-laureate-forum
+https://www.cs.uci.edu/ics-welcomes-8-new-faculty-for-2019
+https://www.cs.uci.edu/financial-times-cyber-fraud-techniques-evolve-into-confidence-trick-arms-race-ian-harris-quoted
+https://www.cs.uci.edu/sergio-gago-masague-collaborates-on-1-8m-grant-to-counter-negative-medication-beliefs
+https://www.cs.uci.edu/student-spotlight-ryan-yang-and-the-instant-popularity-of-boba-watch
+https://www.cs.uci.edu/uci-machine-learning-repository-to-receive-1-8-million-upgrade
+https://www.cs.uci.edu/sang-woo-jun-awarded-funding-for-two-new-projects
+https://www.cs.uci.edu/uci-researchers-present-at-black-hat-2019
+https://www.cs.uci.edu/professor-franzs-paper-wins-test-of-time-award
+https://www.cs.uci.edu/professor-franz-awarded-another-u-s-patent
+https://www.cs.uci.edu/student-spotlight-veteran-mario-rodriguez-thankful-for-opportunity-to-serve
+https://www.cs.uci.edu/professor-tsudik-receives-src-grant-for-research-on-security-of-low-end-iot-devices
+https://www.cs.uci.edu/professor-tsudik-elected-to-inaugural-cohort-of-ifip-fellows
+https://www.cs.uci.edu/professor-michael-franz-elected-ifip-fellow
+https://www.cs.uci.edu/professor-tsudik-shares-cybersecurity-expertise-during-fulbright-specialist-visit-in-myanmar
+https://www.cs.uci.edu/professor-regan-and-ph-d-student-reza-asadi-win-best-paper-award
+https://www.cs.uci.edu/ics-partnership-with-ai2-leads-to-a-new-toolkit-and-best-demo-paper-award
+https://www.cs.uci.edu/developing-a-data-analytics-course-for-low-income-high-schools
+https://www.cs.uci.edu/spectrum-news-uc-researchers-teach-computer-to-solve-rubiks-cube-video
+https://www.cs.uci.edu/uci-news-nine-uci-researchers-named-aaas-fellows
+https://www.cs.uci.edu/zotbot-competing-in-the-alexa-prize-socialbot-grand-challenge
+https://www.cs.uci.edu/harvard-business-review-the-ai-transparency-paradox-sameer-singh-research-cited
+https://www.cs.uci.edu/explore-virtual-reality-with-new-vr-headsets-loan-program-and-workshop
+https://www.cs.uci.edu/ph-d-student-phanwadee-sinthong-and-professor-carey-win-best-student-paper-award
+https://www.ics.uci.edu/~rostami1
+https://www.ics.uci.edu/~yeouln
+https://www.ics.uci.edu/~dokyungs
+https://www.ics.uci.edu/~swjun/mintcloud.htm
+https://www.ics.uci.edu/~gts
+http://www.ics.uci.edu/%7Egts/words.html
+http://www.ics.uci.edu/%7Egts/stupid.html
+http://www.ics.uci.edu/%7Egts/facts.html
+http://www.ics.uci.edu/%7Egts/students.html
+http://www.ics.uci.edu/%7Egts/pats.html
+http://www.ics.uci.edu/%7Egts/contact.html
+https://www.ics.uci.edu/community/events/distinguished
+https://www.ics.uci.edu/community/events
+https://studentcouncil.ics.uci.edu/mission.html
+https://studentcouncil.ics.uci.edu/discord.html
+https://studentcouncil.ics.uci.edu/affiliates.html
+https://studentcouncil.ics.uci.edu/contacts
+https://studentcouncil.ics.uci.edu/index.html
+https://studentcouncil.ics.uci.edu/sponsors.html
+https://studentcouncil.ics.uci.edu/sponsors
+https://studentcouncil.ics.uci.edu/affiliates
+https://studentcouncil.ics.uci.edu/election-results
+https://studentcouncil.ics.uci.edu/ics-week
+https://studentcouncil.ics.uci.edu/newsletter
+https://studentcouncil.ics.uci.edu/get-involved
+https://studentcouncil.ics.uci.edu/committees.html
+https://studentcouncil.ics.uci.edu/discord
+https://studentcouncil.ics.uci.edu/ics-podcast
+https://studentcouncil.ics.uci.edu/humans-of-ics/home
+https://studentcouncil.ics.uci.edu/resources
+https://studentcouncil.ics.uci.edu/events
+https://studentcouncil.ics.uci.edu/past-board
+https://studentcouncil.ics.uci.edu/board
+https://studentcouncil.ics.uci.edu/committees
+https://studentcouncil.ics.uci.edu/awards
+https://studentcouncil.ics.uci.edu/mission
+https://studentcouncil.ics.uci.edu/index
+https://www.ics.uci.edu/~xhx
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start
+https://cbcl.ics.uci.edu/doku.php/internal_index
+https://cbcl.ics.uci.edu/doku.php/contact
+https://cbcl.ics.uci.edu/doku.php/teaching
+http://www.ics.uci.edu/~xhx/courses/CS174/index.html
+http://www.ics.uci.edu/~xhx/courses/CS284A/index.html
+https://cbcl.ics.uci.edu/doku.php/people
+https://cbcl.ics.uci.edu/doku.php/data
+http://cbcl.ics.uci.edu/public_data/SREBP1/raw_data
+http://cbcl.ics.uci.edu/public_data/SREBP1
+http://cbcl.ics.uci.edu/public_data
+http://cbcl.ics.uci.edu
+http://cbcl.ics.uci.edu/public_data/SREBP1/processed
+http://cbcl.ics.uci.edu/public_data/SREBP2
+http://cbcl.ics.uci.edu/public_data/FXR
+http://cbcl.ics.uci.edu/public_data/LRH-1
+http://cbcl.ics.uci.edu/public_data/tree-hmm-sample-data
+https://cbcl.ics.uci.edu/doku.php/software
+http://www.ics.uci.edu/~xhx/project/MotifMap
+http://www.ics.uci.edu/~dnazip/index.html
+http://cbcl.ics.uci.edu/SSEA
+http://cbcl.ics.uci.edu/sgd
+https://cbcl.ics.uci.edu/doku.php/software/arem
+http://hobbes.ics.uci.edu
+http://www.ics.uci.edu/~yunh
+http://hobbes.ics.uci.edu/contact.shtml
+http://hobbes.ics.uci.edu/faq.shtml
+http://hobbes.ics.uci.edu/people.shtml
+http://www.ics.uci.edu/~chenli
+http://hobbes.ics.uci.edu/manual.shtml
+http://hobbes.ics.uci.edu/manual_v1.x.shtml
+http://hobbes.ics.uci.edu/examples.shtml
+http://hobbes.ics.uci.edu/quickstart.shtml
+http://hobbes.ics.uci.edu/download.shtml
+http://hobbes.ics.uci.edu/index.shtml
+https://cbcl.ics.uci.edu/doku.php/publications
+http://www.ics.uci.edu/~xhx/project/mdos
+http://www.ics.uci.edu/~xhx/project/DNAzip
+http://motifmap.ics.uci.edu
+http://ipubmed.ics.uci.edu
+https://cbcl.ics.uci.edu/doku.php/start
+https://cbcl.ics.uci.edu/doku.php/teaching/cs285s14/start
+https://isg.ics.uci.edu
+https://www.ics.uci.edu/~dsm/scifire/research.html
+https://www.ics.uci.edu/~dsm/scifire
+http://cert.ics.uci.edu/SAFIRE/index.html
+http://cert.ics.uci.edu
+http://cert.ics.uci.edu/seminar/Nanda/bio.htm
+http://cert.ics.uci.edu/seminar/Nanda/abstract.htm
+http://cert.ics.uci.edu/EMWS09/index.html
+http://www.ics.uci.edu/%7Edevelop/DHS/Nov%206
+http://www.ics.uci.edu/%7Edevelop/DHS/Nov%205
+http://cert.ics.uci.edu/safire.html
+http://www.ics.uci.edu/%7Eprojects/cert/SAFIRE
+http://www.ics.uci.edu/~projects/cert/SAFIRE
+http://cert.ics.uci.edu/responsphere.html
+http://cert.ics.uci.edu/aboutus.html
+http://isg.ics.uci.edu/events.html
+http://fr.ics.uci.edu/haiti
+http://fr.ics.uci.edu
+http://fr.ics.uci.edu/chile
+http://cert.ics.uci.edu/SAFIRE
+http://cert.ics.uci.edu/initiatives.html
+http://cert.ics.uci.edu/board.html
+http://cert.ics.uci.edu/directions.html
+http://cert.ics.uci.edu/motivation.html
+http://cert.ics.uci.edu/seminarseries.html
+http://www.ics.uci.edu/~projects/dissemination/schoolWorkshop/home.htm
+http://cert.ics.uci.edu/partnerships.html
+http://cert.ics.uci.edu/publications.html
+http://cert.ics.uci.edu/people.html
+http://www.ics.uci.edu/%7Eashish
+http://www.ics.uci.edu/%7Edvk
+http://www.ics.uci.edu/~dvk/CS295.html
+http://www.ics.uci.edu/~dvk
+http://www.ics.uci.edu/~ics143
+http://www.ics.uci.edu/~dvk/pub.html
+http://www.ics.uci.edu/~dvk/pub/WEPS2_dvk.html
+http://www.ics.uci.edu/~dvk/GDF
+http://www.ics.uci.edu/~dvk/pub/EMWS09_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SPIE04_dvk.html
+http://www.ics.uci.edu/~dvk/pub/VLDB02_dvk.html
+http://www.ics.uci.edu/~dvk/pub/DEXA02_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SIGMOD03_dvk.html
+http://www.ics.uci.edu/~dvk/pub/ICDE03_dvk.html
+http://www.ics.uci.edu/~dvk/pub/DASFAA03_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SIGMOD04_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SDM05_dvk.html
+http://www.ics.uci.edu/~dvk/pub/IQIS05_dvk.html
+http://www.ics.uci.edu/~dvk/pub/GIS06_dvk_index.html
+http://www.ics.uci.edu/~dvk/pub/GIS06_dvk_model.html
+http://www.ics.uci.edu/~dvk/pub/EDBT06_dvk_demo.html
+http://www.ics.uci.edu/~dvk/pub/JCDL07_dvk.html
+http://www.ics.uci.edu/~dvk/pub/ISI07_dvk.html
+http://www.ics.uci.edu/~dvk/pub/ICDE07_dvk.html
+http://www.ics.uci.edu/~dvk/pub/DASFAA07_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SIGIR08_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SIGMOD09_dvk.html
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_WEST.html
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_Speech.html
+http://www.ics.uci.edu/~dvk/pub/EDBT10_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SV07_dvk.html
+http://www.ics.uci.edu/~dvk/pub/EncGIS08_dvk.html
+http://www.ics.uci.edu/~dvk/pub/IEEETC02_dvk.html
+http://www.ics.uci.edu/~dvk/pub/TKDE04_dvk.html
+http://www.ics.uci.edu/~dvk/pub/SIGMODR04_dvk.html
+http://www.ics.uci.edu/~dvk/code/Grid.html
+http://www.ics.uci.edu/~dvk/pub/DAPD04_dvk.html
+http://www.ics.uci.edu/~dvk/code/RelDC.html
+http://www.ics.uci.edu/~dvk/pub/TODS06_dvk.html
+http://www.ics.uci.edu/~dvk/pub/IS07_dvk_join.html
+http://www.ics.uci.edu/~dvk/pub/IS07_dvk_pqry.html
+http://www.ics.uci.edu/~dvk/pub/TKDE08_dvk_WePS.html
+http://www.ics.uci.edu/~dvk/pub/TKDE08_dvk_SAT.html
+http://www.ics.uci.edu/~dvk/code/SuperEGO.html
+http://sherlock.ics.uci.edu
+http://sherlock.ics.uci.edu/code.html
+http://sherlock.ics.uci.edu/data.html
+http://sherlock.ics.uci.edu/pub.html
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+http://sherlock.ics.uci.edu/people.html
+http://www.ics.uci.edu/~haltwaij
+http://www.ics.uci.edu/~yaltowim
+http://asterix.ics.uci.edu
+https://asterix.ics.uci.edu/supporters.html
+https://asterix.ics.uci.edu/thesis.html
+https://asterix.ics.uci.edu/publications.html
+https://flamingo.ics.uci.edu/releases/4.1
+https://flamingo.ics.uci.edu/src
+https://flamingo.ics.uci.edu/.svn
+https://flamingo.ics.uci.edu/releases
+https://flamingo.ics.uci.edu/._.DS_Store
+https://flamingo.ics.uci.edu/.DS_Store
+http://flamingo.ics.uci.edu/releases/4.0
+http://flamingo.ics.uci.edu/releases/3.0
+http://flamingo.ics.uci.edu/releases/2.0.1
+http://flamingo.ics.uci.edu/releases/latest
+https://flamingo.ics.uci.edu/index.html
+https://flamingo.ics.uci.edu/releases/1.0
+https://flamingo.ics.uci.edu/toolkit
+https://flamingo.ics.uci.edu/releases/2.0
+https://flamingo.ics.uci.edu/spellchecker
+http://www.ics.uci.edu/~sjavanma
+http://www.ics.uci.edu/~yganjisa
+http://flamingo.ics.uci.edu
+https://asterix.ics.uci.edu/index.html
+http://sherlock.ics.uci.edu/news.html
+http://sherlock.ics.uci.edu/qgd.html
+http://www.ics.uci.edu/~dvk/CV/cv.html
+http://www.ics.uci.edu/~dvk/index.html
+http://www.ics.uci.edu/%7Emagda
+http://www.ics.uci.edu/%7Emagda/courses.html
+http://www.ics.uci.edu/%7Emagda/CS620.html
+http://www.ics.uci.edu/%7Emagda/cs620/announceOG.html
+http://www.ics.uci.edu/%7Emagda/cs620/outlineOG.html
+http://www.ics.uci.edu/%7Emagda/cs620/introductionOG.html
+http://www.ics.uci.edu/%7Emagda/netsys230.html
+http://www.ics.uci.edu/%7Emagda/netsys270.html
+http://www.ics.uci.edu/%7Emagda/ics167.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/quizsol.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/projects.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/chatroom_demo
+http://www.ics.uci.edu/~magda/Courses/ics167
+http://www.ics.uci.edu/~magda/Courses
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/demo_3
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/demo_2
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/demo_1
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/outline.html
+http://www.ics.uci.edu/%7Erkwang/Winter_2016_ICS167/ics167coursepage.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/description.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/introduction.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/Project_Rules.html
+http://www.ics.uci.edu/%7Emagda/Courses/ics167/COGSlab_rules.html
+http://www.ics.uci.edu/%7Emagda/networksG.html
+http://www.ics.uci.edu/%7Emagda/ics_232P/quizsolP.html
+http://www.ics.uci.edu/%7Emagda/ics_232P/scheduleP.html
+http://www.ics.uci.edu/%7Emagda/ics_232P/outlineP.html
+http://www.ics.uci.edu/%7Emagda/netlabG.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/quizsolG.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/announceG.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/scheduleG.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/outlineG.html
+http://www.ics.uci.edu/%7Emagda/netlabU.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/quizsolU.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/announceU.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/scheduleU.html
+http://www.ics.uci.edu/%7Emagda/ics_x33/outlineU.html
+http://www.ics.uci.edu/%7Emagda/Papers.html
+http://www.ics.uci.edu/%7Emagda/Games.html
+http://www.ics.uci.edu/%7Emagda/Ghana.html
+http://www.ics.uci.edu/%7Egmark
+http://www.ics.uci.edu/%7Echenli
+http://cert.ics.uci.edu/index.html
+https://www.ics.uci.edu/~nalini
+http://luci.ics.uci.edu
+https://www.informatics.uci.edu/two-fellowships-support-ph-d-candidate-phoebe-chuas-research-into-inclusive-hiring-practices
+https://www.informatics.uci.edu/2014/06
+https://www.informatics.uci.edu/gillian-hayes-first-to-hold-new-kleist-informatics-chair
+https://www.informatics.uci.edu/uc-irvine-news-ucis-first-14-computer-game-science-majors-are-set-to-graduate-el-zarki-frost-quoted
+https://www.informatics.uci.edu/laguna-beach-coastline-pilot-school-cracks-code-of-student-involvement-lopes-quoted
+https://www.informatics.uci.edu/boing-boing-what-open-learning-looks-like-when-its-for-kids-who-need-it-most-by-mimi-ito
+https://www.informatics.uci.edu/grist-when-climate-disaster-strikes-just-hit-the-reset-button-nardi-research-cited
+https://www.informatics.uci.edu/time-how-you-can-stop-email-from-taking-over-your-life-mark-quoted
+https://www.informatics.uci.edu/lost-download-zotfinder
+https://www.informatics.uci.edu/the-kernel-11-women-who-are-changing-geek-culture
+https://www.informatics.uci.edu/close-to-the-trenches
+https://www.informatics.uci.edu/1793
+https://www.informatics.uci.edu/south-china-morning-post-the-facebook-afterlife-what-happens-to-your-digital-footprint-when-you-die-brubaker-quoted
+https://www.informatics.uci.edu/oc-register-edison-high-school-students-study-cyber-savvy-ito-quoted
+https://www.informatics.uci.edu/orange-county-business-journal-broadcom-uci-plan-tech-tourney
+https://www.informatics.uci.edu/overseeing-your-online-afterlife
+https://www.informatics.uci.edu/global-game-jam-spurs-inspiration-and-connectivity
+https://www.informatics.uci.edu/ics-ph-d-grad-receives-best-doctoral-dissertation-award-from-ischools
+https://www.informatics.uci.edu/ito-presents-on-connected-learning-at-sxswedu-conference
+https://www.informatics.uci.edu/discover-how-facebook-keeps-paul-walkers-memory-alive-brubaker-quoted
+https://www.informatics.uci.edu/ics-graduate-students-receive-prestigious-nsf-fellowship
+https://www.informatics.uci.edu/bbc-a-generation-of-cyberslackers-mark-quoted
+https://www.informatics.uci.edu/icssc-presents-google-themed-hackathon
+https://www.informatics.uci.edu/uc-students-tour-peach-farm-meet-with-president-napolitano
+https://www.informatics.uci.edu/professor-olson-recognized-by-google-co-founder
+https://www.informatics.uci.edu/nmsu-roundup-video-game-labor-yields-economic-value-nardi-quoted
+https://www.informatics.uci.edu/informatics-ph-d-student-receives-google-anita-borg-memorial-scholarship
+https://www.informatics.uci.edu/the-conversation-teens-without-smartphones-encounter-a-new-digital-divide
+https://www.informatics.uci.edu/fast-company-these-simple-tricks-will-help-you-regain-your-dwindling-focus-mark-quoted
+https://www.informatics.uci.edu/digital-spy-learn-about-parasites-in-free-university-course-inspired-by-the-strain-ziv-mentioned
+https://www.informatics.uci.edu/the-atlantic-inbox-zero-vs-inbox-5000-a-unified-theory-mark-quoted
+https://www.informatics.uci.edu/uci-ranked-top-school-for-game-design-and-development-according-to-college-magazine-and-acr
+https://www.informatics.uci.edu/report-shows-ics-grad-degrees-lead-to-high-paying-low-stress-jobs
+https://www.informatics.uci.edu/boing-boing-why-minecraft-rewrites-the-playbook-for-learning-by-mimi-ito
+https://www.informatics.uci.edu/ics-professors-make-computing-reviews-best-of-computing-notable-books-list
+https://www.informatics.uci.edu/autism-appjam-highlights-academias-growing-impact-on-the-autism-community
+https://www.informatics.uci.edu/nsf-awards-240000-grant-to-uci-trio-for-researching-distraction-in-security
+https://www.informatics.uci.edu/financial-post-how-can-we-fix-workplace-productivity-mark-quoted
+https://www.informatics.uci.edu/kobsa-edited-umuai-journal-celebrates-silver-anniversary
+https://www.informatics.uci.edu/informatics-ph-d-student-speaks-about-consumer-privacy-at-tedxucirvine
+https://www.informatics.uci.edu/lopes-book-acknowledged-as-best-programming-book-of-the-decade
+https://www.informatics.uci.edu/benzinga-after-school-stem-camps-emphasize-minecraft-coding-skills-ito-quoted
+https://www.informatics.uci.edu/jones-receives-acm-sigsoft-impact-paper-award
+https://www.informatics.uci.edu/dourish-named-miegunyah-distinguished-visiting-fellow
+https://www.informatics.uci.edu/marketplace-org-political-campaigns-fav-donations-via-twitter-ito-quoted
+https://www.informatics.uci.edu/los-angeles-times-heres-how-members-of-the-burgeoning-digital-workforce-are-protecting-themselves-from-exploitation
+https://www.informatics.uci.edu/van-der-hoek-to-speak-at-scsim-fall-event
+https://www.informatics.uci.edu/san-jose-mercury-news-facebook-seeks-to-conquer-the-workplace-mark-quoted
+https://www.informatics.uci.edu/we-are-hiring
+https://www.informatics.uci.edu/ziv-collaborates-in-groundbreaking-nsf-funded-privacy-research
+https://www.informatics.uci.edu/the-atlantic-is-email-evil-mark-quoted
+https://www.informatics.uci.edu/time-company-bans-email-for-1-week-employee-stress-levels-plummet-mark-quoted
+https://www.informatics.uci.edu/connected-learning-through-minecraft
+https://www.informatics.uci.edu/informatics-ph-d-student-to-present-at-acm-dev-2015
+https://www.informatics.uci.edu/the-new-yorker-death-by-flaming-water-ski-an-other-misfortunes-bowker-quoted
+https://www.informatics.uci.edu/harnessing-the-power-of-new-technology
+https://www.informatics.uci.edu/research-for-the-public-good
+https://www.informatics.uci.edu/two-ics-professors-named-2015-acm-fellows
+https://www.informatics.uci.edu/contra-costa-times-university-of-california-pressured-to-count-computer-science-toward-high-school-math-requirement-richardson-quoted
+https://www.informatics.uci.edu/building-the-perfect-app
+https://www.informatics.uci.edu/the-atlantic-the-triumph-of-email-mark-mentioned
+http://sdcl.ics.uci.edu
+http://sdcl.ics.uci.edu/contact/directions
+http://sdcl.ics.uci.edu/contact
+http://sdcl.ics.uci.edu/sponsors
+http://sdcl.ics.uci.edu/people/previous-members
+http://www.ics.uci.edu/~tlatoza
+http://www.ics.uci.edu/~gbortis
+http://sdcl.ics.uci.edu/people
+https://www.ics.uci.edu/~epaikari
+https://www.ics.uci.edu/~amezasor
+http://sdcl.ics.uci.edu/opportunities
+http://sdcl.ics.uci.edu/papers/books
+http://sdcl.ics.uci.edu/papers/dissertations
+http://sdcl.ics.uci.edu/papers/technical-reports
+http://sdcl.ics.uci.edu/papers
+http://sdcl.ics.uci.edu/research/past-projects/porchlight
+http://sdcl.ics.uci.edu/research/past-projects/crowd-development
+http://sdcl.ics.uci.edu/research/past-projects/code-orb-2
+http://sdcl.ics.uci.edu/research/past-projects/codeexchange
+http://sdcl.ics.uci.edu/research/past-projects/calico
+http://sdcl.ics.uci.edu/research/past-projects/crowd-fault-localization
+http://sdcl.ics.uci.edu/research/past-projects/crowddesign
+http://sdcl.ics.uci.edu/research/past-projects/lighthouse
+http://sdcl.ics.uci.edu/research/past-projects
+http://sdcl.ics.uci.edu/research
+http://sdcl.ics.uci.edu/reserarch/chatbots
+http://www.ics.uci.edu/~redmiles
+http://sdcl.ics.uci.edu/page/2
+http://sdcl.ics.uci.edu/page/3
+http://sdcl.ics.uci.edu/page/4
+http://sdcl.ics.uci.edu/page/5
+http://sdcl.ics.uci.edu/page/6
+http://sdcl.ics.uci.edu/page/7
+http://sdcl.ics.uci.edu/page/8
+http://sdcl.ics.uci.edu/page/9
+http://sdcl.ics.uci.edu/page/10
+http://sdcl.ics.uci.edu/page/11
+http://sdcl.ics.uci.edu/page/12
+http://sdcl.ics.uci.edu/2011/04/attending-icse
+http://sdcl.ics.uci.edu/2011/04/249
+http://sdcl.ics.uci.edu/2011/04/microsoft-seif-award
+http://sdcl.ics.uci.edu/2011/04/nick-mangano-presents-at-arcs-dinner
+http://sdcl.ics.uci.edu/2011/06/brazilian-collaborators-visit-sdcl
+http://sdcl.ics.uci.edu/2011/06/graduates
+http://sdcl.ics.uci.edu/2011/06/attending-hcic
+http://sdcl.ics.uci.edu/2011/07/848
+http://sdcl.ics.uci.edu/2011/08/nsf-grant-for-calico
+http://sdcl.ics.uci.edu/2011/08/tablets
+http://sdcl.ics.uci.edu/2011/08/distributed-collaboration-grant
+http://sdcl.ics.uci.edu/2011/09/883/cmu_p1040919
+http://sdcl.ics.uci.edu/2011/09/883/cmu_p1040924
+http://cradl.ics.uci.edu
+https://cradl.ics.uci.edu/feed
+https://cradl.ics.uci.edu/sucses-is-coming
+https://cradl.ics.uci.edu/category/cradl-news
+https://cradl.ics.uci.edu/publications
+https://cradl.ics.uci.edu/projects
+http://cradl.ics.uci.edu/theseus
+https://cradl.ics.uci.edu/people
+http://ics.uci.edu/~yiw
+http://www.ics.uci.edu/~balani
+http://www.ics.uci.edu/~djr
+http://www.ics.uci.edu/~ziv
+http://www.ics.uci.edu/~ziv/resume.html
+http://www.ics.uci.edu/~neno/interests.html
+http://www.ics.uci.edu/Arcadia/atUCI.html
+http://www.ics.uci.edu/IRUS
+http://www.ics.uci.edu/Arcadia/Aflex-Ayacc/aflex-ayacc.html
+http://www.ics.uci.edu/Arcadia/Chimera/chimera.html
+http://www.ics.uci.edu/Arcadia/Teamware/teamware.html
+http://www.ics.uci.edu/Arcadia/Teamware/historical.html
+http://www.ics.uci.edu/Arcadia/Teamware/arch/arch.html
+http://www.ics.uci.edu/Arcadia/Teamware/docs/packages.html
+http://www.ics.uci.edu/Arcadia/Teamware/tags/tags.html
+http://www.ics.uci.edu/Arcadia/Teamware/tags/test.html
+http://www.ics.uci.edu/Arcadia/Teamware/tags/example.html
 
 QUESTION #2
 
 50 Most Common Words:
-1: ('statistics', 856)
-2: ('data', 778)
-3: ('science', 646)
-4: ('research', 500)
-5: ('uci', 467)
-6: ('news', 382)
-7: ('computer', 339)
-8: ('students', 303)
-9: ('faculty', 301)
-10: ('statistical', 297)
-11: ('new', 292)
-12: ('school', 287)
-13: ('information', 273)
-14: ('program', 273)
-15: ('graduate', 251)
-16: ('september', 245)
-17: ('department', 238)
-18: ('professor', 238)
-19: ('bren', 214)
-20: ('donald', 212)
-21: ('course', 201)
-22: ('sciences', 181)
-23: ('current', 181)
-24: ('will', 181)
-25: ('health', 178)
-26: ('opportunities', 175)
-27: ('master', 173)
-28: ('student', 170)
-29: ('ics', 168)
-30: ('degrees', 163)
-31: ('seminars', 161)
-32: ('says', 160)
-33: ('directory', 159)
-34: ('listings', 158)
-35: ('time', 155)
-36: ('can', 153)
-37: ('work', 151)
-38: ('also', 148)
-39: ('world', 143)
-40: ('uci’s', 142)
-41: ('methods', 138)
-42: ('learning', 137)
-43: ('study', 133)
-44: ('ph.d', 131)
-45: ('undergraduate', 129)
-46: ('impact', 129)
-47: ('institute', 129)
-48: ('real', 123)
-49: ('center', 119)
-50: ('gillen', 116)
+1: ('research', 3926)
+2: ('data', 3256)
+3: ('computer', 2831)
+4: ('science', 2706)
+5: ('uci', 2541)
+6: ('can', 2438)
+7: ('page', 2395)
+8: ('information', 2342)
+9: ('will', 2232)
+10: ('news', 2166)
+11: ('september', 1973)
+12: ('school', 1815)
+13: ('students', 1744)
+14: ('student', 1658)
+15: ('software', 1626)
+16: ('graduate', 1587)
+17: ('statistics', 1569)
+18: ('new', 1516)
+19: ('group', 1499)
+20: ('ics', 1471)
+21: ('pmwiki', 1461)
+22: ('may', 1394)
+23: ('bren', 1324)
+24: ('undergraduate', 1296)
+25: ('use', 1293)
+26: ('university', 1276)
+27: ('faculty', 1254)
+28: ('learning', 1243)
+29: ('design', 1200)
+30: ('course', 1196)
+31: ('time', 1182)
+32: ('also', 1180)
+33: ('people', 1154)
+34: ('code', 1147)
+35: ('work', 1141)
+36: ('contact', 1133)
+37: ('october', 1094)
+38: ('engineering', 1086)
+39: ('irvine', 1066)
+40: ('pages', 1053)
+41: ('department', 1048)
+42: ('professor', 1038)
+43: ('california', 1038)
+44: ('class', 1032)
+45: ('ihler', 1021)
+46: ('algorithms', 1016)
+47: ('one', 1011)
+48: ('center', 958)
+49: ('paper', 938)
+50: ('using', 910)
 
 QUESTION #3
 
 Longest URL:
-URL: https://www.stat.uci.edu/a-look-at-health-and-technology-trends-for-2021-and-beyond
-Word Count: 2312
+URL: https://sli.ics.uci.edu/AIStats/Postings
+Word Count: 11900
 
 QUESTION #4
 
-Subdomains in the ics.uci.edu domain: 0
+Subdomains in the ics.uci.edu domain: 31
+http://archive.ics.uci.edu: 3
+http://asterix.ics.uci.edu: 1
+http://cbcl.ics.uci.edu: 11
+http://cert.ics.uci.edu: 18
+http://cradl.ics.uci.edu: 2
+http://flamingo.ics.uci.edu: 5
+http://fr.ics.uci.edu: 3
+http://futurehealth.ics.uci.edu: 27
+http://hobbes.ics.uci.edu: 10
+http://ipubmed.ics.uci.edu: 1
+http://isg.ics.uci.edu: 1
+http://luci.ics.uci.edu: 1
+http://motifmap.ics.uci.edu: 1
+http://sdcl.ics.uci.edu: 46
+http://sherlock.ics.uci.edu: 7
+http://sli.ics.uci.edu: 122
+http://www.ics.uci.edu: 186
+https://acoi.ics.uci.edu: 72
+https://asterix.ics.uci.edu: 4
+https://cbcl.ics.uci.edu: 11
+https://cradl.ics.uci.edu: 6
+https://duttgroup.ics.uci.edu: 25
+https://flamingo.ics.uci.edu: 10
+https://industryshowcase.ics.uci.edu: 4
+https://intranet.ics.uci.edu: 2
+https://isg.ics.uci.edu: 1
+https://sli.ics.uci.edu: 207
+https://studentcouncil.ics.uci.edu: 22
+https://transformativeplay.ics.uci.edu: 10
+https://www.ics.uci.edu: 38
+https://www.informatics.uci.edu: 68
